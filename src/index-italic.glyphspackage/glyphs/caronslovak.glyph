@@ -1,0 +1,75 @@
+{
+glyphname = caronslovak;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (386,2084);
+}
+);
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(403,2084,l),
+(287,1478,l),
+(560,1478,l),
+(845,2084,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (543,2084);
+}
+);
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(558,2084,l),
+(456,1557,l),
+(620,1557,l),
+(845,2084,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (845,2084);
+}
+);
+layerId = "B042A474-670A-4404-9662-903C467C1F9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(887,2084,l),
+(760,1588,l),
+(808,1588,l),
+(957,2084,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1690;
+}
+);
+unicode = 700;
+}

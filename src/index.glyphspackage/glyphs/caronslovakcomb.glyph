@@ -1,0 +1,78 @@
+{
+glyphname = caronslovakcomb;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (0,2084);
+}
+);
+layerId = master01;
+shapes = (
+{
+pos = (-667,0);
+ref = caronslovak;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (0,2084);
+}
+);
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+pos = (-386,0);
+ref = caronslovak;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (0,2084);
+}
+);
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+pos = (-535,0);
+ref = caronslovak;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 789;
+}

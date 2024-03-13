@@ -1,0 +1,88 @@
+{
+glyphname = IJacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = IJ;
+},
+{
+alignment = -1;
+pos = (-442,0);
+ref = acute.case;
+},
+{
+alignment = -1;
+pos = (537,0);
+ref = acute.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+},
+{
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+alignment = -1;
+ref = IJ;
+},
+{
+alignment = -1;
+pos = (-462,0);
+ref = acute.case;
+},
+{
+alignment = -1;
+pos = (417,0);
+ref = acute.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+},
+{
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+ref = IJ;
+},
+{
+alignment = -1;
+pos = (-453,0);
+ref = acute.case;
+},
+{
+alignment = -1;
+pos = (470,0);
+ref = acute.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+}
+);
+}

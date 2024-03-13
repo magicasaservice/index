@@ -1,0 +1,86 @@
+{
+glyphname = dieresismacron.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,1966);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(329,2698,l),
+(329,2748,l),
+(-329,2748,l),
+(-329,2698,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (-845,462);
+ref = dieresiscomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (0,1966);
+}
+);
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,2667,l),
+(431,2957,l),
+(-431,2957,l),
+(-431,2667,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (-845,442);
+ref = dieresiscomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (0,1966);
+}
+);
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(394,2610,l),
+(394,2802,l),
+(-394,2802,l),
+(-394,2610,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (-845,422);
+ref = dieresiscomb;
+}
+);
+width = 0;
+}
+);
+}

@@ -1,0 +1,86 @@
+{
+glyphname = dieresisgrave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,1453);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(23,2019,l),
+(-290,2453,l),
+(-344,2419,l),
+(-20,1991,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (-845,-25);
+ref = dieresis;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (0,1453);
+}
+);
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,2149,l),
+(-84,2695,l),
+(-406,2534,l),
+(-28,2039,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (-845,-25);
+ref = dieresis;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (0,1453);
+}
+);
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,2070,l),
+(-135,2548,l),
+(-332,2453,l),
+(-34,2005,l,{
+name = hr00;
+})
+);
+},
+{
+pos = (-845,-43);
+ref = dieresis;
+}
+);
+width = 0;
+}
+);
+}

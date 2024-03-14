@@ -81,11 +81,11 @@ width = 2535;
 anchors = (
 {
 name = bottom;
-pos = (1267,1966);
+pos = (1267,0);
 },
 {
 name = top;
-pos = (1267,0);
+pos = (1267,1966);
 }
 );
 background = {

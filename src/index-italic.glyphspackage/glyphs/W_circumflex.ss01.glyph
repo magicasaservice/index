@@ -1,0 +1,68 @@
+{
+glyphname = Wcircumflex.ss01;
+layers = (
+{
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (464,0);
+ref = circumflex.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 2535;
+},
+{
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (481,0);
+ref = circumflex.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 2535;
+},
+{
+layerId = "B042A474-670A-4404-9662-903C467C1F9E";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (482,0);
+ref = circumflex.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 2535;
+}
+);
+}

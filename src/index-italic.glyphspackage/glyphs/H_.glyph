@@ -47,6 +47,12 @@ name = top;
 pos = (1048,1966);
 }
 );
+guides = (
+{
+angle = 80.5;
+pos = (296,1114);
+}
+);
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {

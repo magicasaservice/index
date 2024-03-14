@@ -50,7 +50,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (422,-1966);
+pos = (422,0);
 ref = dieresis.case;
 }
 );

@@ -1,5 +1,5 @@
 {
-.appVersion = "3246";
+.appVersion = "3249";
 .formatVersion = 3;
 axes = (
 {
@@ -698,12 +698,6 @@ instanceInterpolations = {
 "B042A474-670A-4404-9662-903C467C1F9E" = 1;
 };
 name = "Thin Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 100;
 },
 {
@@ -714,13 +708,7 @@ instanceInterpolations = {
 "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E" = 0.33333;
 "B042A474-670A-4404-9662-903C467C1F9E" = 0.66667;
 };
-name = "Extralight Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
+name = "Ultralight Italic";
 weightClass = 200;
 },
 {
@@ -732,12 +720,6 @@ instanceInterpolations = {
 "B042A474-670A-4404-9662-903C467C1F9E" = 0.33333;
 };
 name = "Light Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 300;
 },
 {
@@ -748,12 +730,6 @@ instanceInterpolations = {
 "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E" = 1;
 };
 name = Italic;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 },
 {
 axesValues = (
@@ -764,12 +740,6 @@ instanceInterpolations = {
 "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E" = 0.83333;
 };
 name = "Text Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 },
 {
 axesValues = (
@@ -780,12 +750,6 @@ instanceInterpolations = {
 "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E" = 0.66667;
 };
 name = "Medium Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 500;
 },
 {
@@ -797,12 +761,6 @@ instanceInterpolations = {
 "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E" = 0.33333;
 };
 name = "Semibold Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 600;
 },
 {
@@ -813,12 +771,6 @@ instanceInterpolations = {
 "586BE664-8D6A-4867-BE1B-390608DE01EA" = 1;
 };
 name = "Bold Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 700;
 },
 {
@@ -829,12 +781,6 @@ instanceInterpolations = {
 "586BE664-8D6A-4867-BE1B-390608DE01EA" = 1;
 };
 name = "Heavy Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 800;
 },
 {
@@ -845,12 +791,6 @@ instanceInterpolations = {
 "586BE664-8D6A-4867-BE1B-390608DE01EA" = 1;
 };
 name = "Black Italic";
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 900;
 }
 );

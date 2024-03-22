@@ -1,5 +1,5 @@
 {
-.appVersion = "3246";
+.appVersion = "3249";
 .formatVersion = 3;
 axes = (
 {
@@ -238,6 +238,12 @@ code = "	featureNames {
 	# stylistic set 1 - single storey a
 	sub @lca_dflt by @lca_alt1;
 	sub @lca_cyrl_dflt by @lca_cyrl_alt1;";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
 tag = ss01;
 },
 {
@@ -395,66 +401,104 @@ code = "	# Created: Sun May 21 13:18:14 2017
 		pos base t <anchor 389 760> mark @MC_topright;
 	} MARK_BASE_topright;";
 tag = mark;
+},
+{
+automatic = 1;
+code = "script latn;
+language ROM;
+lookup locl_latn_0 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+language MOL;
+lookup locl_latn_0;
+
+script latn;
+language CAT;
+lookup locl_latn_1 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+script latn;
+language NLD;
+lookup locl_latn_2 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_2;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub dieresis by dieresis.case;
+sub dotaccent by dotaccent.case;
+sub grave by grave.case;
+sub acute by acute.case;
+sub hungarumlaut by hungarumlaut.case;
+sub circumflex by circumflex.case;
+sub caron by caron.case;
+sub breve by breve.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+sub macron by macron.case;
+sub tilde.alt01 by tilde.alt01.case;
+sub breveacute by breveacute.case;
+sub brevegrave by brevegrave.case;
+sub brevehook by brevehook.case;
+sub brevetilde by brevetilde.case;
+sub circumflexacute by circumflexacute.case;
+sub circumflexbreve by circumflexbreve.case;
+sub circumflexgrave by circumflexgrave.case;
+sub circumflexhook by circumflexhook.case;
+sub circumflextilde by circumflextilde.case;
+sub dieresisacute by dieresisacute.case;
+sub dieresiscaron by dieresiscaron.case;
+sub dieresisgrave by dieresisgrave.case;
+sub dieresismacron by dieresismacron.case;
+sub hookcomb by hookcomb.case;
+sub ringacute by ringacute.case;
+";
+tag = case;
+},
+{
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+sub i l l by i_l_l;
+sub l l by l_l;
+
+";
+tag = liga;
+},
+{
+code = "lookupflag IgnoreMarks;
+sub t t by t_t;
+";
+tag = dlig;
 }
 );
 fontMaster = (
 {
 axesValues = (
 100
-);
-customParameters = (
-{
-name = underlineThickness;
-value = 60;
-},
-{
-name = underlinePosition;
-value = -480;
-},
-{
-name = "Master Icon Glyph Name";
-value = L;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = strikeoutSize;
-value = 60;
-},
-{
-name = strikeoutPosition;
-value = 840;
-},
-{
-name = hheaAscender;
-value = 3040;
-},
-{
-name = hheaDescender;
-value = -1070;
-},
-{
-name = typoAscender;
-value = 3040;
-},
-{
-name = typoDescender;
-value = -1070;
-},
-{
-name = winAscent;
-value = 3040;
-},
-{
-name = winDescent;
-value = 1070;
-}
 );
 iconName = Light;
 id = master01;
@@ -489,75 +533,6 @@ stemValues = (
 axesValues = (
 400
 );
-customParameters = (
-{
-name = underlineThickness;
-value = 170;
-},
-{
-name = underlinePosition;
-value = -464;
-},
-{
-name = "Master Icon Glyph Name";
-value = R;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = panose;
-value = (
-2,
-0,
-5,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
-name = strikeoutSize;
-value = 170;
-},
-{
-name = strikeoutPosition;
-value = 890;
-},
-{
-name = hheaAscender;
-value = 3040;
-},
-{
-name = hheaDescender;
-value = -1070;
-},
-{
-name = typoAscender;
-value = 3040;
-},
-{
-name = typoDescender;
-value = -1070;
-},
-{
-name = winAscent;
-value = 3040;
-},
-{
-name = winDescent;
-value = 1070;
-}
-);
 id = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 metricValues = (
 {
@@ -589,75 +564,6 @@ stemValues = (
 {
 axesValues = (
 700
-);
-customParameters = (
-{
-name = underlineThickness;
-value = 280;
-},
-{
-name = underlinePosition;
-value = -416;
-},
-{
-name = "Master Icon Glyph Name";
-value = B;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = panose;
-value = (
-2,
-0,
-10,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
-name = strikeoutSize;
-value = 280;
-},
-{
-name = strikeoutPosition;
-value = 910;
-},
-{
-name = hheaAscender;
-value = 3040;
-},
-{
-name = hheaDescender;
-value = -1070;
-},
-{
-name = typoAscender;
-value = 3040;
-},
-{
-name = typoDescender;
-value = 1070;
-},
-{
-name = winAscent;
-value = 3040;
-},
-{
-name = winDescent;
-value = 1070;
-}
 );
 iconName = Bold;
 id = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
@@ -714,13 +620,7 @@ instanceInterpolations = {
 "661A777E-9960-44AA-8623-3AD7C626B4F3" = 0.33333;
 master01 = 0.66667;
 };
-name = Extralight;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
+name = Ultralight;
 weightClass = 200;
 },
 {
@@ -732,12 +632,6 @@ instanceInterpolations = {
 master01 = 0.33333;
 };
 name = Light;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 300;
 },
 {
@@ -748,12 +642,6 @@ instanceInterpolations = {
 "661A777E-9960-44AA-8623-3AD7C626B4F3" = 1;
 };
 name = Regular;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 },
 {
 axesValues = (
@@ -764,12 +652,6 @@ instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 0.16667;
 };
 name = Text;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 },
 {
 axesValues = (
@@ -780,12 +662,6 @@ instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 0.33333;
 };
 name = Medium;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 500;
 },
 {
@@ -797,12 +673,6 @@ instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 0.66667;
 };
 name = Semibold;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 600;
 },
 {
@@ -813,12 +683,6 @@ instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 1;
 };
 name = Bold;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 700;
 },
 {
@@ -829,12 +693,6 @@ instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 1;
 };
 name = Heavy;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 800;
 },
 {
@@ -845,12 +703,6 @@ instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 1;
 };
 name = Black;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 900;
 }
 );

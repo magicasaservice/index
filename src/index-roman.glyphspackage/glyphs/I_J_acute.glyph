@@ -10,12 +10,12 @@ ref = IJ;
 },
 {
 alignment = -1;
-pos = (-442,0);
+pos = (-498,0);
 ref = acute.case;
 },
 {
 alignment = -1;
-pos = (537,0);
+pos = (480,0);
 ref = acute.case;
 }
 );
@@ -70,7 +70,7 @@ ref = acute.case;
 },
 {
 alignment = -1;
-pos = (470,0);
+pos = (480,0);
 ref = acute.case;
 }
 );

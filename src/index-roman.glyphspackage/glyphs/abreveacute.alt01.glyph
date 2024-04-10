@@ -8,7 +8,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (817,0);
+pos = (-26,0);
 ref = breveacute;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (819,0);
+pos = (-26,0);
 ref = breveacute;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (808,0);
+pos = (-46,0);
 ref = breveacute;
 }
 );

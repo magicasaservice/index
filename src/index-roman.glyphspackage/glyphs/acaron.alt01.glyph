@@ -8,7 +8,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-28,0);
+pos = (-26,0);
 ref = caron;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-37,0);
+pos = (-46,0);
 ref = caron;
 }
 );

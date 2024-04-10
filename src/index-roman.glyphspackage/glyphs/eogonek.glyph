@@ -2,7 +2,7 @@
 glyphname = eogonek;
 layers = (
 {
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -71,10 +71,21 @@ nodes = (
 );
 }
 );
+};
+layerId = master01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (256,0);
+ref = ogonek;
+}
+);
 width = 1690;
 },
 {
-layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+background = {
 shapes = (
 {
 closed = 1;
@@ -143,10 +154,21 @@ nodes = (
 );
 }
 );
+};
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (303,0);
+ref = ogonek;
+}
+);
 width = 1690;
 },
 {
-layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+background = {
 shapes = (
 {
 closed = 1;
@@ -213,6 +235,17 @@ nodes = (
 (1259,839,l),
 (425,839,l)
 );
+}
+);
+};
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (277,0);
+ref = ogonek;
 }
 );
 width = 1690;

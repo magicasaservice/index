@@ -8,7 +8,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (845,0);
+pos = (17,0);
 ref = hookcomb;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (845,0);
+pos = (1,0);
 ref = hookcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (845,0);
+pos = (15,0);
 ref = hookcomb;
 }
 );

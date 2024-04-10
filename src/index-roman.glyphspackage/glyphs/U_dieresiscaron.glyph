@@ -8,7 +8,6 @@ shapes = (
 ref = U;
 },
 {
-pos = (845,0);
 ref = dieresiscaron.case;
 }
 );
@@ -29,7 +28,6 @@ shapes = (
 ref = U;
 },
 {
-pos = (845,0);
 ref = dieresiscaron.case;
 }
 );
@@ -50,7 +48,6 @@ shapes = (
 ref = U;
 },
 {
-pos = (845,0);
 ref = dieresiscaron.case;
 }
 );

@@ -29,7 +29,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (423,-1966);
+pos = (423,0);
 ref = acute.case;
 }
 );

@@ -8,7 +8,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (859,0);
+pos = (-72,0);
 ref = commabelowcomb;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (850,0);
+pos = (-19,0);
 ref = commabelowcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (853,0);
+pos = (-24,0);
 ref = commabelowcomb;
 }
 );

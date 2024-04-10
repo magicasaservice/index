@@ -48,6 +48,7 @@ shapes = (
 ref = w.ss01;
 },
 {
+pos = (2,0);
 ref = circumflex;
 }
 );

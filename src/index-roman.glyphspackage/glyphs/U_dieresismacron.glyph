@@ -8,7 +8,6 @@ shapes = (
 ref = U;
 },
 {
-pos = (845,0);
 ref = dieresismacron.case;
 }
 );
@@ -29,7 +28,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (845,0);
+pos = (-1,0);
 ref = dieresismacron.case;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (845,0);
+pos = (-1,0);
 ref = dieresismacron.case;
 }
 );

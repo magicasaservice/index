@@ -8,7 +8,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (845,0);
 ref = breveacute.case;
 }
 );
@@ -29,7 +28,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (845,0);
 ref = breveacute.case;
 }
 );
@@ -50,7 +48,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (845,0);
 ref = breveacute.case;
 }
 );

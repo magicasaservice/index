@@ -2,6 +2,11 @@
 glyphname = seveninferior;
 layers = (
 {
+guides = (
+{
+pos = (0,1039);
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -24,6 +29,14 @@ name = hr00;
 width = 1690;
 },
 {
+guides = (
+{
+pos = (0,1039);
+},
+{
+pos = (0,1039);
+}
+);
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
@@ -46,6 +59,11 @@ name = hr00;
 width = 1690;
 },
 {
+guides = (
+{
+pos = (0,1039);
+}
+);
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {

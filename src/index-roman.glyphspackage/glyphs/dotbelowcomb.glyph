@@ -5,6 +5,7 @@ layers = (
 anchors = (
 {
 name = _bottom;
+pos = (845,0);
 }
 );
 background = {
@@ -35,16 +36,17 @@ name = hr00;
 layerId = master01;
 shapes = (
 {
-pos = (-845,-2213);
+pos = (0,-2213);
 ref = dotaccentcomb;
 }
 );
-width = 0;
+width = 1690;
 },
 {
 anchors = (
 {
 name = _bottom;
+pos = (845,0);
 }
 );
 background = {
@@ -75,17 +77,18 @@ name = hr00;
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-pos = (-772,-2086);
+pos = (73,-2086);
 ref = dotaccentcomb;
 scale = (0.9136,0.9136);
 }
 );
-width = 0;
+width = 1690;
 },
 {
 anchors = (
 {
 name = _bottom;
+pos = (845,0);
 }
 );
 background = {
@@ -137,12 +140,12 @@ name = hr00;
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (-772,-2066);
+pos = (73,-2066);
 ref = dotaccentcomb;
 scale = (0.9136,0.9136);
 }
 );
-width = 0;
+width = 1690;
 }
 );
 unicode = 803;

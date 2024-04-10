@@ -8,7 +8,6 @@ shapes = (
 ref = o;
 },
 {
-pos = (845,0);
 ref = circumflextilde;
 }
 );
@@ -29,7 +28,6 @@ shapes = (
 ref = o;
 },
 {
-pos = (845,0);
 ref = circumflextilde;
 }
 );
@@ -50,7 +48,6 @@ shapes = (
 ref = o;
 },
 {
-pos = (845,0);
 ref = circumflextilde;
 }
 );

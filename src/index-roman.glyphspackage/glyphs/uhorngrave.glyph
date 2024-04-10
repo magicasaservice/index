@@ -8,7 +8,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (-11,0);
+pos = (-59,0);
 ref = grave;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (-6,0);
+pos = (-89,0);
 ref = grave;
 }
 );

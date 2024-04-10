@@ -8,6 +8,7 @@ shapes = (
 ref = A;
 },
 {
+pos = (-1,0);
 ref = ringacute.case;
 }
 );
@@ -48,6 +49,7 @@ shapes = (
 ref = A;
 },
 {
+pos = (-1,0);
 ref = ringacute.case;
 }
 );

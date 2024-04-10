@@ -8,7 +8,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (774,0);
+pos = (-15,0);
 ref = brevegrave;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (822,0);
+pos = (-23,0);
 ref = brevegrave;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (797,0);
+pos = (-48,0);
 ref = brevegrave;
 }
 );

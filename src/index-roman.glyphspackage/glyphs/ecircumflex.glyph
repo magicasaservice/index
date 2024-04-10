@@ -50,7 +50,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (5,0);
+pos = (7,0);
 ref = circumflex;
 }
 );

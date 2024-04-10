@@ -8,7 +8,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (845,0);
 ref = brevegrave.case;
 }
 );
@@ -29,7 +28,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (845,0);
 ref = brevegrave.case;
 }
 );
@@ -50,7 +48,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (845,0);
 ref = brevegrave.case;
 }
 );

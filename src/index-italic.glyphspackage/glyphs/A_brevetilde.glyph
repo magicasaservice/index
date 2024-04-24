@@ -8,7 +8,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (1042,0);
+pos = (-20,0);
 ref = brevetilde.case;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (1053,0);
+pos = (-8,0);
 ref = brevetilde.case;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (1053,0);
+pos = (-10,0);
 ref = brevetilde.case;
 }
 );

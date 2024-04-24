@@ -16,6 +16,12 @@ name = topright;
 pos = (1324,2084);
 }
 );
+guides = (
+{
+angle = 80.5;
+pos = (353,0);
+}
+);
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
@@ -61,6 +67,12 @@ name = topright;
 pos = (1312,2084);
 }
 );
+guides = (
+{
+angle = 80.5;
+pos = (453,0);
+}
+);
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
@@ -104,6 +116,12 @@ pos = (955,1966);
 {
 name = topright;
 pos = (1301,2084);
+}
+);
+guides = (
+{
+angle = 80.5;
+pos = (545,0);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";

@@ -8,8 +8,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (-141,0);
-ref = circumflexgrave;
+pos = (-45,0);
+ref = circumflexcomb_gravecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (-185,0);
-ref = circumflexgrave;
+pos = (-3,0);
+ref = circumflexcomb_gravecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (-189,0);
-ref = circumflexgrave;
+pos = (-38,0);
+ref = circumflexcomb_gravecomb;
 }
 );
 userData = {

@@ -1,0 +1,47 @@
+{
+glyphname = brevecomb_hookabovecomb;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = 1;
+ref = brevecomb;
+},
+{
+pos = (0,357);
+ref = hookcomb;
+}
+);
+width = 1690;
+},
+{
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+alignment = 1;
+ref = brevecomb;
+},
+{
+pos = (0,397);
+ref = hookcomb;
+}
+);
+width = 1690;
+},
+{
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+alignment = 1;
+ref = brevecomb;
+},
+{
+pos = (20,548);
+ref = hookcomb;
+}
+);
+width = 1690;
+}
+);
+}

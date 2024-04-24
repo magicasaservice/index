@@ -8,7 +8,7 @@ shapes = (
 ref = H;
 },
 {
-ref = circumflex.case;
+ref = circumflexcomb.case;
 }
 );
 userData = {
@@ -28,7 +28,7 @@ shapes = (
 ref = H;
 },
 {
-ref = circumflex.case;
+ref = circumflexcomb.case;
 }
 );
 userData = {
@@ -48,7 +48,7 @@ shapes = (
 ref = H;
 },
 {
-ref = circumflex.case;
+ref = circumflexcomb.case;
 }
 );
 userData = {

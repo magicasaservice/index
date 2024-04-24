@@ -11,8 +11,15 @@ pos = (787,2084);
 layerId = master01;
 shapes = (
 {
-pos = (120,0);
-ref = caronslovak;
+closed = 1;
+nodes = (
+(822,2084,l),
+(777,1588,l),
+(825,1588,l),
+(893,2084,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {
@@ -35,8 +42,15 @@ pos = (616,2084);
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-pos = (230,0);
-ref = caronslovak;
+closed = 1;
+nodes = (
+(703,2084,l),
+(686,1478,l),
+(959,1478,l),
+(1145,2084,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {
@@ -59,8 +73,15 @@ pos = (690,2084);
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (155,0);
-ref = caronslovak;
+closed = 1;
+nodes = (
+(715,2084,l),
+(695,1552,l),
+(867,1552,l),
+(1005,2084,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {

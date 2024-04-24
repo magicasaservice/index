@@ -8,13 +8,9 @@ shapes = (
 ref = h;
 },
 {
-closed = 1;
-nodes = (
-(881,1791,l),
-(881,1842,l),
-(155,1842,l),
-(155,1791,l)
-);
+pos = (-316,878);
+ref = strokeshortcomb;
+scale = (0.855,1);
 }
 );
 width = 1690;
@@ -26,13 +22,8 @@ shapes = (
 ref = h;
 },
 {
-closed = 1;
-nodes = (
-(994,1633,l),
-(994,1943,l),
-(25,1943,l),
-(25,1633,l)
-);
+pos = (-370,929);
+ref = strokeshortcomb;
 }
 );
 width = 1690;
@@ -44,13 +35,8 @@ shapes = (
 ref = h;
 },
 {
-closed = 1;
-nodes = (
-(932,1712,l),
-(932,1887,l),
-(93,1887,l),
-(93,1712,l)
-);
+pos = (-410,868);
+ref = strokeshortcomb;
 }
 );
 width = 1690;

@@ -8,8 +8,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-406,513);
-ref = dotaccent;
+pos = (135,0);
+ref = periodcentered;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-375,513);
-ref = dotaccent;
+pos = (305,105);
+ref = periodcentered;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-389,513);
-ref = dotaccent;
+pos = (211,134);
+ref = periodcentered;
 }
 );
 userData = {

@@ -9,7 +9,7 @@ ref = U;
 },
 {
 pos = (2,0);
-ref = dieresisacute.case;
+ref = dieresiscomb_acutecomb.case;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = U;
 },
 {
 pos = (-1,0);
-ref = dieresisacute.case;
+ref = dieresiscomb_acutecomb.case;
 }
 );
 userData = {
@@ -51,7 +51,7 @@ ref = U;
 },
 {
 pos = (-1,0);
-ref = dieresisacute.case;
+ref = dieresiscomb_acutecomb.case;
 }
 );
 userData = {

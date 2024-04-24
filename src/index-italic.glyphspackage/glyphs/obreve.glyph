@@ -8,7 +8,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (121,0);
+pos = (-6,0);
 ref = breve;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (121,0);
+pos = (-3,0);
 ref = breve;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (93,0);
+pos = (-37,0);
 ref = breve;
 }
 );

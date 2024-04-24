@@ -8,7 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (1050,0);
+pos = (-6,0);
 ref = circumflextilde.case;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (1067,0);
+pos = (19,0);
 ref = circumflextilde.case;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (1084,0);
+pos = (39,0);
 ref = circumflextilde.case;
 }
 );

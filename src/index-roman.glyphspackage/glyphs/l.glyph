@@ -9,7 +9,7 @@ pos = (845,0);
 },
 {
 name = top;
-pos = (845,1966);
+pos = (845,2084);
 },
 {
 name = topright;
@@ -46,7 +46,7 @@ pos = (845,0);
 },
 {
 name = top;
-pos = (845,1966);
+pos = (845,2085);
 },
 {
 name = topright;
@@ -83,7 +83,7 @@ pos = (845,0);
 },
 {
 name = top;
-pos = (845,1966);
+pos = (845,2084);
 },
 {
 name = topright;

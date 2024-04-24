@@ -1,0 +1,60 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1540,1791,l),
+(1540,1842,l),
+(814,1842,l),
+(814,1791,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 1690;
+},
+{
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1678,1633,l),
+(1678,1943,l),
+(712,1943,l),
+(712,1633,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 1690;
+},
+{
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1605,1712,l),
+(1605,1887,l),
+(766,1887,l),
+(766,1712,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 1690;
+}
+);
+unicode = 273;
+}

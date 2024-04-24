@@ -6,10 +6,6 @@ layerId = master01;
 shapes = (
 {
 ref = o;
-},
-{
-pos = (83,0);
-ref = circumflexhook;
 }
 );
 userData = {
@@ -27,10 +23,6 @@ layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
 ref = o;
-},
-{
-pos = (109,0);
-ref = circumflexhook;
 }
 );
 userData = {
@@ -48,10 +40,6 @@ layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
 ref = o;
-},
-{
-pos = (101,0);
-ref = circumflexhook;
 }
 );
 userData = {

@@ -1,0 +1,46 @@
+{
+glyphname = gstroke.ss01;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = g.ss01;
+},
+{
+pos = (577,-94);
+ref = strokeshortcomb;
+scale = (0.8439,1);
+}
+);
+width = 1690;
+},
+{
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+ref = g.ss01;
+},
+{
+pos = (410,-119);
+ref = strokeshortcomb;
+}
+);
+width = 1690;
+},
+{
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+ref = g.ss01;
+},
+{
+pos = (468,-44);
+ref = strokeshortcomb;
+scale = (0.9255,1);
+}
+);
+width = 1690;
+}
+);
+}

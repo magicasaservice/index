@@ -8,7 +8,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (121,0);
+pos = (58,0);
 ref = hungarumlaut;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (121,0);
+pos = (21,0);
 ref = hungarumlaut;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (93,0);
+pos = (-7,0);
 ref = hungarumlaut;
 }
 );

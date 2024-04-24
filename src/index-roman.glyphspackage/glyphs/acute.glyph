@@ -2,52 +2,28 @@
 glyphname = acute;
 layers = (
 {
-anchors = (
-{
-name = _top;
-pos = (845,1453);
-}
-);
 layerId = master01;
 shapes = (
 {
-pos = (1690,0);
-ref = grave;
-scale = (-1,1);
+ref = acutecomb;
 }
 );
 width = 1690;
 },
 {
-anchors = (
-{
-name = _top;
-pos = (845,1453);
-}
-);
-layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
-shapes = (
-{
-pos = (1690,0);
-ref = grave;
-scale = (-1,1);
-}
-);
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (845,1453);
-}
-);
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (1690,0);
-ref = grave;
-scale = (-1,1);
+ref = acutecomb;
+}
+);
+width = 1690;
+},
+{
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+ref = acutecomb;
 }
 );
 width = 1690;

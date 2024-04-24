@@ -9,7 +9,7 @@ ref = c;
 },
 {
 pos = (56,0);
-ref = circumflex;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = c;
 },
 {
 pos = (39,0);
-ref = circumflex;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = c;
 },
 {
-pos = (38,0);
-ref = circumflex;
+pos = (36,0);
+ref = circumflexcomb;
 }
 );
 userData = {

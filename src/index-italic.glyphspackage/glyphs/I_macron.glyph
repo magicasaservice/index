@@ -8,7 +8,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (208,0);
+pos = (8,0);
 ref = macron.case;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (203,0);
+pos = (3,0);
 ref = macron.case;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (208,0);
+pos = (8,0);
 ref = macron.case;
 }
 );

@@ -8,8 +8,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (90,0);
-ref = breve;
+pos = (82,0);
+ref = brevecomb;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = dotlessi;
 },
 {
 pos = (90,0);
-ref = breve;
+ref = brevecomb;
 }
 );
 userData = {
@@ -51,7 +51,7 @@ ref = dotlessi;
 },
 {
 pos = (90,0);
-ref = breve;
+ref = brevecomb;
 }
 );
 userData = {

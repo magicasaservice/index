@@ -8,8 +8,14 @@ shapes = (
 ref = u;
 },
 {
-pos = (-9,0);
-ref = dieresisacute;
+alignment = -1;
+pos = (-11,-50);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (54,305);
+ref = acutecomb;
 }
 );
 userData = {
@@ -29,8 +35,13 @@ shapes = (
 ref = u;
 },
 {
-pos = (-7,0);
-ref = dieresisacute;
+pos = (-6,0);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (90,521);
+ref = acutecomb;
 }
 );
 userData = {
@@ -50,8 +61,14 @@ shapes = (
 ref = u;
 },
 {
-pos = (-10,0);
-ref = dieresisacute;
+alignment = -1;
+pos = (-9,-90);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (76,371);
+ref = acutecomb;
 }
 );
 userData = {

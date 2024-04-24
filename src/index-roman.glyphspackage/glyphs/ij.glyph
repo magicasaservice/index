@@ -5,18 +5,17 @@ layers = (
 layerId = master01;
 shapes = (
 {
-alignment = -1;
-pos = (-431,0);
-ref = dotaccent;
-},
-{
-alignment = -1;
-pos = (452,0);
-ref = dotaccent;
-},
-{
-alignment = -1;
 ref = _ij;
+},
+{
+alignment = -1;
+pos = (440,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-443,0);
+ref = dotaccentcomb;
 }
 );
 width = 1690;
@@ -25,19 +24,17 @@ width = 1690;
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-alignment = -1;
-pos = (-414,0);
-ref = dotaccent;
+ref = _ij;
 },
 {
 alignment = -1;
 pos = (430,0);
-ref = dotaccent;
+ref = dotaccentcomb;
 },
 {
 alignment = -1;
-pos = (1,0);
-ref = _ij;
+pos = (-431,0);
+ref = dotaccentcomb;
 }
 );
 width = 1690;
@@ -46,19 +43,17 @@ width = 1690;
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-alignment = -1;
-pos = (-406,0);
-ref = dotaccent;
-},
-{
-alignment = -1;
-pos = (459,0);
-ref = dotaccent;
-},
-{
-alignment = -1;
-pos = (20,0);
 ref = _ij;
+},
+{
+alignment = -1;
+pos = (437,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-432,0);
+ref = dotaccentcomb;
 }
 );
 width = 1690;

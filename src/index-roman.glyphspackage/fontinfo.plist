@@ -1,5 +1,5 @@
 {
-.appVersion = "3257";
+.appVersion = "3302";
 .formatVersion = 3;
 axes = (
 {
@@ -9,425 +9,136 @@ tag = wght;
 );
 classes = (
 {
-code = "a aacute abreve acircumflex adieresis adotbelow agrave ahook amacron aogonek aring aringacute atilde abreveacute abrevedotbelow abrevegrave abrevehook abrevetilde acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhook acircumflextilde";
-name = lca_dflt;
-},
-{
-code = "a.alt01 aacute.alt01 abreve.alt01 acircumflex.alt01 adieresis.alt01 adotbelow.alt01 agrave.alt01 ahook.alt01 amacron.alt01 aogonek.alt01 aring.alt01 aringacute.alt01 atilde.alt01 abreveacute.alt01 abrevedotbelow.alt01 abrevegrave.alt01 abrevehook.alt01 abrevetilde.alt01 acircumflexacute.alt01 acircumflexdotbelow.alt01 acircumflexgrave.alt01 acircumflexhook.alt01 acircumflextilde.alt01";
-name = lca_alt1;
-},
-{
-code = "uni0430 uni04D3 uni04D1";
-name = lca_cyrl_dflt;
-},
-{
-code = "uni0430.alt01 uni04D3.alt01 uni04D1.alt01";
-name = lca_cyrl_alt1;
-},
-{
-code = "g gbreve gcircumflex gcommaaccent gdotaccent";
-name = lcg_dflt;
-},
-{
-code = "g.alt01 gbreve.alt01 gcircumflex.alt01 gcommaaccent.alt01 gdotaccent.alt01";
-name = lcg_alt1;
-},
-{
-code = "zero one two three four five six seven eight nine";
-name = numbers_dflt;
-},
-{
-code = "zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior";
-name = numbers_sups;
-},
-{
-code = "zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior";
-name = numbers_sinf;
-},
-{
-code = "zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
-name = numbers_numr;
-},
-{
-code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
-name = numbers_dnom;
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehook Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhook Acircumflextilde Adieresis Adotbelow Agrave Ahook Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhook Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehook Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihook Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhook Ocircumflextilde Odieresis Odotbelow Ograve Ohook Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhook Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhook Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhook Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhook Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH M.ss01 W.ss01 Wacute.ss01 Wcircumflex.ss01 Wdieresis.ss01 Wgrave.ss01";
+name = Uppercase;
 }
 );
 date = "2021-02-10 03:02:16 +0000";
 familyName = Index;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;   # Default
-languagesystem latn dflt;   # Latin default
-languagesystem cyrl dflt;   # Cyrillic default
+automatic = 1;
+code = "languagesystem DFLT dflt;
 
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn CAT;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
-},
-{
-code = "# ----------------
-# LANGUAGE SYSTEMS
-# ----------------
-
-# --------------
-# GLOBAL CLASSES
-# --------------";
-name = Prefix;
 }
 );
 features = (
 {
-code = "	sub a from [a.alt01]; # 1 glyph(s)
-	sub g from [g.alt01 g.alt02]; # 2 glyph(s)
-	sub zero from [zero.alt01 zero.alt02 zero.numr zero.dnom]; # 4 glyph(s)
-	sub one from [one.numr one.dnom]; # 2 glyph(s)
-	sub two from [two.numr two.dnom]; # 2 glyph(s)
-	sub three from [three.numr three.dnom]; # 2 glyph(s)
-	sub four from [four.numr four.dnom]; # 2 glyph(s)
-	sub five from [five.numr five.dnom]; # 2 glyph(s)
-	sub six from [six.numr six.dnom]; # 2 glyph(s)
-	sub seven from [seven.numr seven.dnom]; # 2 glyph(s)
-	sub eight from [eight.numr eight.dnom]; # 2 glyph(s)
-	sub nine from [nine.numr nine.dnom]; # 2 glyph(s)
-	sub aacute from [aacute.alt01]; # 1 glyph(s)
-	sub abreve from [abreve.alt01]; # 1 glyph(s)
-	sub acircumflex from [acircumflex.alt01]; # 1 glyph(s)
-	sub adieresis from [adieresis.alt01]; # 1 glyph(s)
-	sub adotbelow from [adotbelow.alt01]; # 1 glyph(s)
-	sub agrave from [agrave.alt01]; # 1 glyph(s)
-	sub ahook from [ahook.alt01]; # 1 glyph(s)
-	sub amacron from [amacron.alt01]; # 1 glyph(s)
-	sub aogonek from [aogonek.alt01]; # 1 glyph(s)
-	sub aring from [aring.alt01]; # 1 glyph(s)
-	sub aringacute from [aringacute.alt01]; # 1 glyph(s)
-	sub atilde from [atilde.alt01]; # 1 glyph(s)
-	sub abreveacute from [abreveacute.alt01]; # 1 glyph(s)
-	sub abrevedotbelow from [abrevedotbelow.alt01]; # 1 glyph(s)
-	sub abrevegrave from [abrevegrave.alt01]; # 1 glyph(s)
-	sub abrevehook from [abrevehook.alt01]; # 1 glyph(s)
-	sub abrevetilde from [abrevetilde.alt01]; # 1 glyph(s)
-	sub acircumflexacute from [acircumflexacute.alt01]; # 1 glyph(s)
-	sub acircumflexdotbelow from [acircumflexdotbelow.alt01]; # 1 glyph(s)
-	sub acircumflexgrave from [acircumflexgrave.alt01]; # 1 glyph(s)
-	sub acircumflexhook from [acircumflexhook.alt01]; # 1 glyph(s)
-	sub acircumflextilde from [acircumflextilde.alt01]; # 1 glyph(s)
-	sub gbreve from [gbreve.alt01]; # 1 glyph(s)
-	sub gcircumflex from [gcircumflex.alt01]; # 1 glyph(s)
-	sub gcommaaccent from [gcommaaccent.alt01]; # 1 glyph(s)
-	sub gdotaccent from [gdotaccent.alt01]; # 1 glyph(s)
-	sub germandbls from [germandbls.alt01]; # 1 glyph(s)
-	sub tilde from [tilde.alt01 tilde.case tilde.alt01.case]; # 3 glyph(s)
-	sub macron from [macron.case]; # 1 glyph(s)
-	sub dotaccent from [dotaccent.case]; # 1 glyph(s)
-	sub dieresis from [dieresis.case]; # 1 glyph(s)
-	sub hungarumlaut from [hungarumlaut.case]; # 1 glyph(s)
-	sub acute from [acute.case]; # 1 glyph(s)
-	sub grave from [grave.case]; # 1 glyph(s)
-	sub circumflex from [circumflex.case]; # 1 glyph(s)
-	sub caron from [caron.case]; # 1 glyph(s)
-	sub breve from [breve.case breve.cyrl breve.cyrl_case]; # 3 glyph(s)
-	sub ring from [ring.case]; # 1 glyph(s)
-	sub ringacute from [ringacute.case]; # 1 glyph(s)
-	sub hookcomb from [hookcomb.case]; # 1 glyph(s)
-	sub breveacute from [breveacute.case]; # 1 glyph(s)
-	sub brevegrave from [brevegrave.case]; # 1 glyph(s)
-	sub brevehook from [brevehook.case]; # 1 glyph(s)
-	sub brevetilde from [brevetilde.case]; # 1 glyph(s)
-	sub dieresisacute from [dieresisacute.case]; # 1 glyph(s)
-	sub dieresiscaron from [dieresiscaron.case]; # 1 glyph(s)
-	sub dieresisgrave from [dieresisgrave.case]; # 1 glyph(s)
-	sub circumflexacute from [circumflexacute.case]; # 1 glyph(s)
-	sub circumflexbreve from [circumflexbreve.case]; # 1 glyph(s)
-	sub circumflexgrave from [circumflexgrave.case]; # 1 glyph(s)
-	sub circumflexhook from [circumflexhook.case]; # 1 glyph(s)
-	sub dieresismacron from [dieresismacron.case]; # 1 glyph(s)
-	sub circumflextilde from [circumflextilde.case]; # 1 glyph(s)
-	sub uni0430 from [uni0430.alt01]; # 1 glyph(s)
-	sub uni04D3 from [uni04D3.alt01]; # 1 glyph(s)
-	sub uni04D1 from [uni04D1.alt01]; # 1 glyph(s)";
+automatic = 1;
+code = "feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature case;
+feature ss01;
+";
 tag = aalt;
 },
 {
-code = "	# glyph composition/decomposition
-	@uc_basic = [A AE Aogonek B C Ccedilla D E Eogonek F G H I Iogonek J K L M N O OE Ohorn Oslash P Q R S Schwa T U Uhorn Uogonek V W X Y Z]; # 37 glyphs
-	@acc_comb_top = [acutecomb breveacute brevecomb brevegrave brevehook brevetilde caroncomb caronslovakcomb circumflexacute circumflexbreve circumflexcomb circumflexgrave circumflexhook circumflextilde commaturnedtopcomb dieresisacute dieresiscaron dieresiscomb dieresisgrave dieresismacron dotaccentcomb gravecomb hookcomb horncomb hungarumlautcomb macroncomb ringcomb tildecomb]; # 28 glyphs
-	@acc_comb_dflt = [breveacute brevegrave brevehook brevetilde circumflexacute circumflexbreve circumflexgrave circumflexhook circumflextilde dieresisacute dieresiscaron dieresisgrave dieresismacron hookcomb]; # 14 glyphs
-	@acc_comb_case = [breveacute.case brevegrave.case brevehook.case brevetilde.case circumflexacute.case circumflexbreve.case circumflexgrave.case circumflexhook.case circumflextilde.case dieresisacute.case dieresiscaron.case dieresisgrave.case dieresismacron.case hookcomb.case]; # 14 glyphs
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+	sub ringcomb acutecomb by ringcomb_acutecomb;
+} ccmp_DFLT_1;
 
-	lookup nonContextSubs {
-		sub brevecomb acutecomb by breveacute;
-		sub brevecomb gravecomb by brevegrave;
-		sub brevecomb hookcomb by brevehook;
-		sub brevecomb tildecomb by brevetilde;
-		sub circumflexcomb acutecomb by circumflexacute;
-		sub circumflexcomb gravecomb by circumflexgrave;
-		sub circumflexcomb hookcomb by circumflexhook;
-		sub circumflexcomb tildecomb by circumflextilde;
-		sub circumflexcomb brevecomb by circumflexbreve;
-		sub dieresiscomb acutecomb by dieresisacute;
-		sub dieresiscomb caroncomb by dieresiscaron;
-		sub dieresiscomb gravecomb by dieresisgrave;
-		sub dieresiscomb macroncomb by dieresismacron;
-	} nonContextSubs;
+lookup ccmp_Other_1 {
+	lookupflag 0;
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb ringcomb ringcomb_acutecomb tildecomb macroncomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case ringcomb.case ringcomb_acutecomb.case tildecomb.case macroncomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
 
-	lookup contextSubs {
-		sub [L d l t] caroncomb' by caronslovakcomb; # /Lcaron /dcaron /lcaron /tcaron
-		sub g commabelowcomb' by commaturnedtopcomb; # /gcommaaccent
-		sub i' @acc_comb_top by dotlessi;
-		sub j' @acc_comb_top by dotlessj;
-		sub @uc_basic @acc_comb_dflt' by @acc_comb_case; # case accents
-	} contextSubs;";
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
 tag = ccmp;
-},
-{
-code = "	# ordinals
-	sub [a o] by [ordfeminine ordmasculine];";
-tag = ordn;
-},
-{
-code = "	# fractions
-	sub one [slash fraction] two by onehalf;
-	sub one [slash fraction] three by uni2153;
-	sub two [slash fraction] three by uni2154;
-	sub one [slash fraction] four by onequarter;
-	sub three [slash fraction] four by threequarters;
-	sub one [slash fraction] five by uni2155;
-	sub two [slash fraction] five by uni2156;
-	sub three [slash fraction] five by uni2157;
-	sub four [slash fraction] five by uni2158;
-	sub one [slash fraction] six by uni2159;
-	sub five [slash fraction] six by uni215A;
-	sub one [slash fraction] seven by uni2150;
-	sub one [slash fraction] eight by uni215B;
-	sub three [slash fraction] eight by uni215C;
-	sub five [slash fraction] eight by uni215D;
-	sub seven [slash fraction] eight by uni215E;
-	sub one [slash fraction] nine by uni2151;";
-tag = frac;
-},
-{
-code = "	# numerators
-	sub @numbers_dflt by @numbers_numr;";
-tag = numr;
-},
-{
-code = "	# denominators
-	sub @numbers_dflt by @numbers_dnom;";
-tag = dnom;
-},
-{
-code = "	# superiors
-	sub @numbers_dflt by @numbers_sups;";
-tag = sups;
-},
-{
-code = "	# inferiors
-	sub @numbers_dflt by @numbers_sinf;";
-tag = sinf;
-},
-{
-code = "	# slashed zero
-	sub zero by zero.alt01;";
-tag = zero;
-},
-{
-code = "	featureNames {
-		name 3 1 0x0409 \"simple lowercase a\"; # Win / Unicode / English US
-		name 1 0 0 \"simple lowercase a\"; #   Mac / Roman / English
-	};
-	# stylistic set 1 - single storey a
-	sub @lca_dflt by @lca_alt1;
-	sub @lca_cyrl_dflt by @lca_cyrl_alt1;";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss01;
-},
-{
-code = "	featureNames {
-		name 3 1 0x0409 \"simple lowercase g\"; # Win / Unicode / English US
-		name 1 0 0 \"simple lowercase g\"; #   Mac / Roman / English
-	};
-	# stylistic set 2 - single storey g
-	sub @lcg_dflt by @lcg_alt1;";
-tag = ss02;
-},
-{
-code = "	featureNames {
-		name 3 1 0x0409 \"slashed number zero\"; # Win / Unicode / English US
-		name 1 0 0 \"slashed number zero\"; #   Mac / Roman / English
-	};
-	# slashed zero
-	sub zero by zero.alt01;";
-tag = ss03;
-},
-{
-code = "	featureNames {
-		name 3 1 0x0409 \"plain number zero\"; # Win / Unicode / English US
-		name 1 0 0 \"plain number zero\"; #   Mac / Roman / English
-	};
-	# plain zero
-	sub zero by zero.alt02;";
-tag = ss04;
-},
-{
-code = "	featureNames {
-		name 3 1 0x0409 \"alternate lowercase eszett\"; # Win / Unicode / English US
-		name 1 0 0 \"alternate lowercase eszett\"; #   Mac / Roman / English
-	};
-	# alternative german eszett
-	sub germandbls by germandbls.alt01;";
-tag = ss05;
-},
-{
-code = "	# stylistic alternates - all stylistic sets combined
-	sub @lca_dflt by @lca_alt1;
-	sub @lcg_dflt by @lcg_alt1;
-	sub @lca_cyrl_dflt by @lca_cyrl_alt1;
-	sub zero by zero.alt02;
-	sub germandbls by germandbls.alt01;";
-tag = salt;
-},
-{
-code = "	# Created: Sun May 21 13:18:14 2017
-	# PS Name: IBMEliotMonoB09-Thin
-	# MM Inst: IBM Eliot Mono B09 Thin
-	# exported from FontLab
-
-	@mGC_bottom_0_0 = [cedillacomb commabelowcomb dotbelowcomb];
-	@mGC_top_0_516 = [acutecomb breveacute brevecomb brevegrave brevehook brevetilde caroncomb circumflexacute circumflexbreve circumflexcomb circumflexgrave circumflexhook circumflextilde commaturnedtopcomb dieresisacute dieresiscaron dieresiscomb dieresisgrave dieresismacron dotaccentcomb gravecomb hookcomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@mGC_top_0_698 = [breveacute.case brevegrave.case brevehook.case brevetilde.case circumflexacute.case circumflexbreve.case circumflexgrave.case circumflexhook.case circumflextilde.case dieresisacute.case dieresiscaron.case dieresisgrave.case dieresismacron.case hookcomb.case];
-
-	markClass @mGC_bottom_0_0 <anchor 0 0> @MC_bottom;
-	markClass @mGC_top_0_516 <anchor 0 516> @MC_top;
-	markClass @mGC_top_0_698 <anchor 0 698> @MC_top;
-	markClass caronslovakcomb <anchor 0 740> @MC_topright;
-	markClass ogonekcomb <anchor 0 0> @MC_bottomright;
-
-	lookup MARK_BASE_bottom {
-		@bGC_R_bottom = [R S];
-		@bGC_h_bottom = [h n];
-		@bGC_i_bottom = [i dotlessi];
-		@bGC_k_bottom = [k L];
-		@bGC_l_bottom = [l m o v w x z A H I M N O T U V W X Y ohorn Ohorn Uhorn];
-		@bGC_u_bottom = [u uhorn];
-		pos base @bGC_R_bottom <anchor 302 0> mark @MC_bottom;
-		pos base @bGC_h_bottom <anchor 305 0> mark @MC_bottom;
-		pos base @bGC_i_bottom <anchor 332 0> mark @MC_bottom;
-		pos base @bGC_k_bottom <anchor 337 0> mark @MC_bottom;
-		pos base @bGC_l_bottom <anchor 300 0> mark @MC_bottom;
-		pos base @bGC_u_bottom <anchor 296 0> mark @MC_bottom;
-		pos base B <anchor 294 0> mark @MC_bottom;
-		pos base C <anchor 313 0> mark @MC_bottom;
-		pos base D <anchor 277 0> mark @MC_bottom;
-		pos base E <anchor 307 0> mark @MC_bottom;
-		pos base F <anchor 119 0> mark @MC_bottom;
-		pos base G <anchor 304 0> mark @MC_bottom;
-		pos base J <anchor 279 0> mark @MC_bottom;
-		pos base K <anchor 323 0> mark @MC_bottom;
-		pos base P <anchor 115 0> mark @MC_bottom;
-		pos base Z <anchor 301 0> mark @MC_bottom;
-		pos base a <anchor 275 0> mark @MC_bottom;
-		pos base a.alt01 <anchor 290 0> mark @MC_bottom;
-		pos base b <anchor 310 0> mark @MC_bottom;
-		pos base c <anchor 316 0> mark @MC_bottom;
-		pos base d <anchor 285 0> mark @MC_bottom;
-		pos base e <anchor 306 0> mark @MC_bottom;
-		pos base f <anchor 299 0> mark @MC_bottom;
-		pos base r <anchor 269 0> mark @MC_bottom;
-		pos base s <anchor 308 0> mark @MC_bottom;
-		pos base t <anchor 378 0> mark @MC_bottom;
-		pos base y <anchor 440 0> mark @MC_bottom;
-	} MARK_BASE_bottom;
-
-
-	lookup MARK_BASE_bottomright {
-		@bGC_i_bottomright = [i dotlessi];
-		pos base @bGC_i_bottomright <anchor 535 0> mark @MC_bottomright;
-		pos base A <anchor 548 0> mark @MC_bottomright;
-		pos base E <anchor 514 0> mark @MC_bottomright;
-		pos base I <anchor 508 0> mark @MC_bottomright;
-		pos base U <anchor 390 0> mark @MC_bottomright;
-		pos base a <anchor 531 0> mark @MC_bottomright;
-		pos base a.alt01 <anchor 475 0> mark @MC_bottomright;
-		pos base e <anchor 384 0> mark @MC_bottomright;
-		pos base u <anchor 473 0> mark @MC_bottomright;
-	} MARK_BASE_bottomright;
-
-
-	lookup MARK_BASE_top {
-		@bGC_E_top = [E F];
-		@bGC_G_top = [G K];
-		@bGC_a.alt01_top = [a.alt01 g.alt01 q];
-		@bGC_g_top = [g g.alt02 n];
-		@bGC_l_top = [l A H I M N O P Q T U V W X Y Z Oslash Ohorn Uhorn];
-		@bGC_m_top = [m o s v w x z oslash ohorn];
-		@bGC_u_top = [u uhorn];
-		pos base @bGC_E_top <anchor 309 698> mark @MC_top;
-		pos base @bGC_G_top <anchor 313 698> mark @MC_top;
-		pos base @bGC_a.alt01_top <anchor 290 516> mark @MC_top;
-		pos base @bGC_g_top <anchor 305 516> mark @MC_top;
-		pos base @bGC_l_top <anchor 300 698> mark @MC_top;
-		pos base @bGC_m_top <anchor 300 516> mark @MC_top;
-		pos base @bGC_u_top <anchor 296 516> mark @MC_top;
-		pos base AE <anchor 393 698> mark @MC_top;
-		pos base B <anchor 274 698> mark @MC_top;
-		pos base C <anchor 325 698> mark @MC_top;
-		pos base D <anchor 277 698> mark @MC_top;
-		pos base J <anchor 306 698> mark @MC_top;
-		pos base L <anchor 156 698> mark @MC_top;
-		pos base R <anchor 299 698> mark @MC_top;
-		pos base S <anchor 292 698> mark @MC_top;
-		pos base a <anchor 275 516> mark @MC_top;
-		pos base ae <anchor 298 516> mark @MC_top;
-		pos base c <anchor 320 516> mark @MC_top;
-		pos base dotlessi <anchor 332 516> mark @MC_top;
-		pos base dotlessj <anchor 417 516> mark @MC_top;
-		pos base e <anchor 302 516> mark @MC_top;
-		pos base h <anchor 138 698> mark @MC_top;
-		pos base p <anchor 310 516> mark @MC_top;
-		pos base r <anchor 378 516> mark @MC_top;
-		pos base y <anchor 297 516> mark @MC_top;
-	} MARK_BASE_top;
-
-
-	lookup MARK_BASE_topright {
-		pos base L <anchor 273 740> mark @MC_topright;
-		pos base d <anchor 545 740> mark @MC_topright;
-		pos base l <anchor 416 740> mark @MC_topright;
-		pos base t <anchor 389 760> mark @MC_topright;
-	} MARK_BASE_topright;";
-tag = mark;
 },
 {
 automatic = 1;
 code = "script latn;
-language ROM;
+language AZE;
 lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
-} locl_latn_0;
+} locl_latn_1;
 language MOL;
-lookup locl_latn_0;
+lookup locl_latn_1;
+
+script latn;
+language MAH;
+lookup locl_latn_2 {
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
 
 script latn;
 language CAT;
-lookup locl_latn_1 {
+lookup locl_latn_3 {
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
-} locl_latn_1;
+} locl_latn_3;
 
 script latn;
 language NLD;
-lookup locl_latn_2 {
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_2;
+} locl_latn_4;
 ";
 tag = locl;
 },
@@ -448,51 +159,177 @@ tag = subs;
 },
 {
 automatic = 1;
-code = "sub dieresis by dieresis.case;
-sub dotaccent by dotaccent.case;
-sub grave by grave.case;
-sub acute by acute.case;
-sub hungarumlaut by hungarumlaut.case;
-sub circumflex by circumflex.case;
-sub caron by caron.case;
-sub breve by breve.case;
-sub ring by ring.case;
-sub tilde by tilde.case;
-sub macron by macron.case;
-sub tilde.alt01 by tilde.alt01.case;
-sub breveacute by breveacute.case;
-sub brevegrave by brevegrave.case;
-sub brevehook by brevehook.case;
-sub brevetilde by brevetilde.case;
-sub circumflexacute by circumflexacute.case;
-sub circumflexbreve by circumflexbreve.case;
-sub circumflexgrave by circumflexgrave.case;
-sub circumflexhook by circumflexhook.case;
-sub circumflextilde by circumflextilde.case;
-sub dieresisacute by dieresisacute.case;
-sub dieresiscaron by dieresiscaron.case;
-sub dieresisgrave by dieresisgrave.case;
-sub dieresismacron by dieresismacron.case;
-sub hookcomb by hookcomb.case;
-sub ringacute by ringacute.case;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;
+sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;
+sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub brevecomb_gravecomb by brevecomb_gravecomb.case;
+sub brevecomb_acutecomb by brevecomb_acutecomb.case;
+sub brevecomb_tildecomb by brevecomb_tildecomb.case;
+sub ringcomb by ringcomb.case;
+sub ringcomb_acutecomb by ringcomb_acutecomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
 ";
 tag = case;
 },
 {
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub i l l by i_l_l;
+sub i l by i_l;
+sub l i by l_i;
+sub l l by l_l;
+sub t t by t_t;
+";
+tag = dlig;
+},
+{
+automatic = 1;
 code = "lookupflag IgnoreMarks;
 sub f i by fi;
 sub f l by fl;
-sub i l l by i_l_l;
-sub l l by l_l;
-
 ";
 tag = liga;
 },
 {
-code = "lookupflag IgnoreMarks;
-sub t t by t_t;
+automatic = 1;
+code = "sub M by M.ss01;
+sub W by W.ss01;
+sub Wacute by Wacute.ss01;
+sub Wcircumflex by Wcircumflex.ss01;
+sub Wdieresis by Wdieresis.ss01;
+sub Wgrave by Wgrave.ss01;
+sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub abreveacute by abreveacute.ss01;
+sub abrevedotbelow by abrevedotbelow.ss01;
+sub abrevegrave by abrevegrave.ss01;
+sub abrevetilde by abrevetilde.ss01;
+sub acaron by acaron.ss01;
+sub acircumflex by acircumflex.ss01;
+sub acircumflexacute by acircumflexacute.ss01;
+sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub acircumflexgrave by acircumflexgrave.ss01;
+sub acircumflextilde by acircumflextilde.ss01;
+sub adieresis by adieresis.ss01;
+sub adotbelow by adotbelow.ss01;
+sub agrave by agrave.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub aringacute by aringacute.ss01;
+sub atilde by atilde.ss01;
+sub g by g.ss01;
+sub gbreve by gbreve.ss01;
+sub gcircumflex by gcircumflex.ss01;
+sub gcommaaccent by gcommaaccent.ss01;
+sub gdotaccent by gdotaccent.ss01;
+sub gstroke by gstroke.ss01;
+sub m by m.ss01;
+sub w by w.ss01;
+sub wacute by wacute.ss01;
+sub wcircumflex by wcircumflex.ss01;
+sub wdieresis by wdieresis.ss01;
+sub wgrave by wgrave.ss01;
 ";
-tag = dlig;
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
 }
 );
 fontMaster = (
@@ -604,12 +441,6 @@ instanceInterpolations = {
 master01 = 1;
 };
 name = Thin;
-properties = (
-{
-key = styleMapFamilyName;
-value = "IBM Plex Mono Thin";
-}
-);
 weightClass = 100;
 },
 {

@@ -1,0 +1,51 @@
+{
+export = 0;
+glyphname = _stem_minor;
+layers = (
+{
+layerId = "B042A474-670A-4404-9662-903C467C1F9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(752,0,l),
+(1103,2096,l),
+(1044,2096,l),
+(693,0,l)
+);
+}
+);
+width = 1690;
+},
+{
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(788,0,l),
+(1137,2084,l),
+(918,2084,l),
+(569,0,l)
+);
+}
+);
+width = 1600;
+},
+{
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(885,0,l),
+(1232,2084,l),
+(821,2084,l),
+(474,0,l)
+);
+}
+);
+width = 1600;
+}
+);
+}

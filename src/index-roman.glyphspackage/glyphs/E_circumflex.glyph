@@ -9,7 +9,7 @@ ref = E;
 },
 {
 pos = (25,0);
-ref = circumflex.case;
+ref = circumflexcomb.case;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = E;
 },
 {
 pos = (8,0);
-ref = circumflex.case;
+ref = circumflexcomb.case;
 }
 );
 userData = {
@@ -51,7 +51,7 @@ ref = E;
 },
 {
 pos = (14,0);
-ref = circumflex.case;
+ref = circumflexcomb.case;
 }
 );
 userData = {

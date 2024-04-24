@@ -8,8 +8,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (17,0);
-ref = hookcomb.case;
+pos = (0,513);
+ref = hookcomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (1,0);
-ref = hookcomb.case;
+pos = (0,513);
+ref = hookcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (15,0);
-ref = hookcomb.case;
+pos = (0,513);
+ref = hookcomb;
 }
 );
 userData = {

@@ -9,7 +9,7 @@ ref = y;
 },
 {
 pos = (-9,0);
-ref = dieresis;
+ref = dieresiscomb;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = y;
 },
 {
 pos = (8,0);
-ref = dieresis;
+ref = dieresiscomb;
 }
 );
 userData = {
@@ -50,7 +50,7 @@ shapes = (
 ref = y;
 },
 {
-ref = dieresis;
+ref = dieresiscomb;
 }
 );
 userData = {

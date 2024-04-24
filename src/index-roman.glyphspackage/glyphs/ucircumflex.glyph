@@ -9,7 +9,7 @@ ref = u;
 },
 {
 pos = (-11,0);
-ref = circumflex;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = u;
 },
 {
 pos = (-6,0);
-ref = circumflex;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (-7,0);
-ref = circumflex;
+pos = (-9,0);
+ref = circumflexcomb;
 }
 );
 userData = {

@@ -8,11 +8,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (163,0);
+pos = (207,0);
 ref = circumflex.case;
 },
 {
-pos = (746,0);
+pos = (-76,0);
 ref = dotbelowcomb;
 }
 );
@@ -33,11 +33,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (183,0);
+pos = (209,0);
 ref = circumflex.case;
 },
 {
-pos = (741,0);
+pos = (41,0);
 ref = dotbelowcomb;
 }
 );
@@ -58,11 +58,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (194,0);
+pos = (201,0);
 ref = circumflex.case;
 },
 {
-pos = (738,0);
+pos = (38,0);
 ref = dotbelowcomb;
 }
 );

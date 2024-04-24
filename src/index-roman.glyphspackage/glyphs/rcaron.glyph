@@ -9,7 +9,7 @@ ref = r;
 },
 {
 pos = (219,0);
-ref = caron;
+ref = caroncomb;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = r;
 },
 {
 pos = (70,0);
-ref = caron;
+ref = caroncomb;
 }
 );
 userData = {
@@ -51,7 +51,7 @@ ref = r;
 },
 {
 pos = (149,0);
-ref = caron;
+ref = caroncomb;
 }
 );
 userData = {

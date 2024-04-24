@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3302";
 .formatVersion = 3;
 axes = (
 {
@@ -477,6 +477,7 @@ over = -34;
 pos = -620;
 },
 {
+pos = 9.5;
 }
 );
 name = Thin;
@@ -578,6 +579,7 @@ over = -34;
 pos = -620;
 },
 {
+pos = 9.5;
 }
 );
 name = Regular;
@@ -659,6 +661,11 @@ name = winDescent;
 value = 1070;
 }
 );
+guides = (
+{
+pos = (228,2084);
+}
+);
 iconName = Bold;
 id = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 metricValues = (
@@ -680,6 +687,7 @@ over = -34;
 pos = -620;
 },
 {
+pos = 9.5;
 }
 );
 name = Bold;

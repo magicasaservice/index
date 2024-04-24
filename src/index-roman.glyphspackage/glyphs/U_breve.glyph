@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-ref = breve.case;
+ref = brevecomb.case;
 }
 );
 userData = {
@@ -28,7 +28,7 @@ shapes = (
 ref = U;
 },
 {
-ref = breve.case;
+ref = brevecomb.case;
 }
 );
 userData = {
@@ -48,7 +48,7 @@ shapes = (
 ref = U;
 },
 {
-ref = breve.case;
+ref = brevecomb.case;
 }
 );
 userData = {

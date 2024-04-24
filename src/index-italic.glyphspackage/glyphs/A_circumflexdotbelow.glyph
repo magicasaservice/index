@@ -12,7 +12,7 @@ pos = (197,0);
 ref = circumflex.case;
 },
 {
-pos = (735,0);
+pos = (35,0);
 ref = dotbelowcomb;
 }
 );
@@ -37,7 +37,7 @@ pos = (208,0);
 ref = circumflex.case;
 },
 {
-pos = (743,0);
+pos = (43,0);
 ref = dotbelowcomb;
 }
 );
@@ -62,7 +62,7 @@ pos = (208,0);
 ref = circumflex.case;
 },
 {
-pos = (724,0);
+pos = (24,0);
 ref = dotbelowcomb;
 }
 );

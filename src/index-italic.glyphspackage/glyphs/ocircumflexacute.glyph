@@ -8,7 +8,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (966,0);
+pos = (119,0);
 ref = circumflexacute;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (966,0);
+pos = (125,0);
 ref = circumflexacute;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (938,0);
+pos = (103,0);
 ref = circumflexacute;
 }
 );

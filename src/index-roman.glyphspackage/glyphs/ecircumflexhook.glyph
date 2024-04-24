@@ -8,8 +8,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (88,0);
-ref = circumflexhook;
+pos = (50,0);
+ref = circumflexcomb_hookabovecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (112,0);
-ref = circumflexhook;
+pos = (6,0);
+ref = circumflexcomb_hookabovecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (106,0);
-ref = circumflexhook;
+pos = (43,0);
+ref = circumflexcomb_hookabovecomb;
 }
 );
 userData = {

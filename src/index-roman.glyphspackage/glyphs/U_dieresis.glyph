@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-ref = dieresis.case;
+ref = dieresiscomb.case;
 }
 );
 userData = {
@@ -28,7 +28,7 @@ shapes = (
 ref = U;
 },
 {
-ref = dieresis.case;
+ref = dieresiscomb.case;
 }
 );
 userData = {
@@ -48,7 +48,7 @@ shapes = (
 ref = U;
 },
 {
-ref = dieresis.case;
+ref = dieresiscomb.case;
 }
 );
 userData = {

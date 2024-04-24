@@ -8,10 +8,10 @@ shapes = (
 ref = A;
 },
 {
-ref = breve.case;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = brevecomb.case;
 }
 );
 userData = {
@@ -31,10 +31,11 @@ shapes = (
 ref = A;
 },
 {
-ref = breve.case;
+pos = (0,50);
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = brevecomb.case;
 }
 );
 userData = {
@@ -54,10 +55,10 @@ shapes = (
 ref = A;
 },
 {
-ref = breve.case;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = brevecomb.case;
 }
 );
 userData = {

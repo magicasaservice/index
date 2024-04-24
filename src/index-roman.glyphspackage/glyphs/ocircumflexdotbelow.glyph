@@ -8,10 +8,10 @@ shapes = (
 ref = o;
 },
 {
-ref = circumflex;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -31,10 +31,10 @@ shapes = (
 ref = o;
 },
 {
-ref = circumflex;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -54,11 +54,10 @@ shapes = (
 ref = o;
 },
 {
-pos = (2,0);
-ref = circumflex;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = circumflexcomb;
 }
 );
 userData = {

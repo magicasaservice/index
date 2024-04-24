@@ -8,11 +8,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (73,0);
+pos = (-54,0);
 ref = breve;
 },
 {
-pos = (698,0);
+pos = (-2,0);
 ref = dotbelowcomb;
 }
 );
@@ -33,11 +33,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (45,0);
+pos = (-79,0);
 ref = breve;
 },
 {
-pos = (676,0);
+pos = (-24,0);
 ref = dotbelowcomb;
 }
 );
@@ -58,11 +58,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (59,0);
+pos = (-71,0);
 ref = breve;
 },
 {
-pos = (662,0);
+pos = (-38,0);
 ref = dotbelowcomb;
 }
 );

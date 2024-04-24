@@ -8,12 +8,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (-15,0);
-ref = breve;
-},
-{
 pos = (-71,0);
 ref = dotbelowcomb;
+},
+{
+pos = (-45,0);
+ref = brevecomb;
 }
 );
 userData = {
@@ -34,11 +34,11 @@ ref = a;
 },
 {
 pos = (-23,0);
-ref = breve;
+ref = dotbelowcomb;
 },
 {
-pos = (-23,0);
-ref = dotbelowcomb;
+pos = (-3,0);
+ref = brevecomb;
 }
 );
 userData = {
@@ -59,11 +59,11 @@ ref = a;
 },
 {
 pos = (-48,0);
-ref = breve;
+ref = dotbelowcomb;
 },
 {
-pos = (-48,0);
-ref = dotbelowcomb;
+pos = (-38,0);
+ref = brevecomb;
 }
 );
 userData = {

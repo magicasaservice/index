@@ -8,7 +8,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (1042,0);
+pos = (-16,0);
 ref = brevehook.case;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (1053,0);
+pos = (5,0);
 ref = brevehook.case;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (1053,0);
+pos = (12,0);
 ref = brevehook.case;
 }
 );

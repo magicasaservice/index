@@ -8,8 +8,8 @@ shapes = (
 ref = l;
 },
 {
-pos = (504,0);
-ref = caronslovak;
+pos = (384,0);
+ref = caroncomb.alt;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = l;
 },
 {
-pos = (845,0);
-ref = caronslovak;
+pos = (615,0);
+ref = caroncomb.alt;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = l;
 },
 {
-pos = (665,0);
-ref = caronslovak;
+pos = (510,0);
+ref = caroncomb.alt;
 }
 );
 userData = {

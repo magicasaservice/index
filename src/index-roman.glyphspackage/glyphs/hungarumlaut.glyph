@@ -2,97 +2,28 @@
 glyphname = hungarumlaut;
 layers = (
 {
-anchors = (
-{
-name = _top;
-pos = (845,1453);
-}
-);
 layerId = master01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(890,2143,l),
-(557,1681,l),
-(620,1681,l),
-(969,2143,l,{
-name = hr00;
-})
-);
-},
-{
-closed = 1;
-nodes = (
-(1340,2143,l),
-(1008,1681,l),
-(1070,1681,l),
-(1420,2143,l)
-);
+ref = hungarumlautcomb;
 }
 );
 width = 1690;
 },
 {
-anchors = (
-{
-name = _top;
-pos = (845,1453);
-}
-);
-layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
-shapes = (
-{
-closed = 1;
-nodes = (
-(642,2261,l),
-(307,1605,l),
-(591,1605,l),
-(1091,2261,l,{
-name = hr00;
-})
-);
-},
-{
-closed = 1;
-nodes = (
-(1219,2261,l),
-(885,1605,l),
-(1169,1605,l),
-(1668,2261,l)
-);
-}
-);
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (845,1453);
-}
-);
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-closed = 1;
-nodes = (
-(743,2191,l),
-(473,1650,l),
-(639,1650,l),
-(1000,2191,l,{
-name = hr00;
-})
+ref = hungarumlautcomb;
+}
 );
+width = 1690;
 },
 {
-closed = 1;
-nodes = (
-(1194,2191,l),
-(924,1650,l),
-(1090,1650,l),
-(1450,2191,l)
-);
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+ref = hungarumlautcomb;
 }
 );
 width = 1690;

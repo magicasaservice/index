@@ -1,25 +1,21 @@
 {
+color = 1;
 glyphname = acute;
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (940,1453);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-closed = 1;
-nodes = (
-(991,2270,l),
-(667,1735,l),
-(910,1605,l),
-(1312,2101,l,{
-name = hr00;
-})
-);
+alignment = -1;
+pos = (1892,0);
+ref = grave;
+scale = (-1,1);
 }
 );
 width = 1690;
@@ -28,21 +24,16 @@ width = 1690;
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (944,1453);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1073,2194,l),
-(769,1726,l),
-(901,1647,l),
-(1264,2084,l,{
-name = hr00;
-})
-);
+alignment = -1;
+pos = (2000,0);
+ref = grave;
+scale = (-1,1);
 }
 );
 width = 1690;
@@ -51,21 +42,16 @@ width = 1690;
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (922,1453);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1183,2143,l),
-(794,1712,l),
-(834,1681,l),
-(1233,2106,l,{
-name = hr00;
-})
-);
+alignment = -1;
+pos = (1996,0);
+ref = grave;
+scale = (-1,1);
 }
 );
 width = 1690;

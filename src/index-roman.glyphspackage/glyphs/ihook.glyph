@@ -8,7 +8,7 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (107,0);
+pos = (82,0);
 ref = hookcomb;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (91,0);
+pos = (90,0);
 ref = hookcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (105,0);
+pos = (90,0);
 ref = hookcomb;
 }
 );

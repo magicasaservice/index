@@ -14,8 +14,7 @@ shapes = (
 ref = S;
 },
 {
-alignment = -1;
-pos = (-35,0);
+pos = (5,0);
 ref = cedillacomb;
 }
 );
@@ -34,8 +33,7 @@ shapes = (
 ref = S;
 },
 {
-alignment = -1;
-pos = (-35,0);
+pos = (-23,0);
 ref = cedillacomb;
 }
 );
@@ -54,8 +52,7 @@ shapes = (
 ref = S;
 },
 {
-alignment = -1;
-pos = (-35,0);
+pos = (-9,0);
 ref = cedillacomb;
 }
 );

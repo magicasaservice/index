@@ -29,7 +29,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (758,0);
+pos = (636,0);
 ref = commabelowcomb;
 }
 );

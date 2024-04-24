@@ -1,28 +1,21 @@
 {
+color = 1;
 glyphname = caron;
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (945,1453);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1495,2075,l),
-(1298,2236,l),
-(921,1912,l),
-(622,2236,l),
-(408,2075,l),
-(712,1630,l),
-(1062,1630,l,{
-name = hr00;
-})
-);
+alignment = -1;
+angle = 180;
+pos = (2052,3847);
+ref = circumflex;
 }
 );
 width = 1690;
@@ -31,24 +24,16 @@ width = 1690;
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (963,1453);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1394,2084,l),
-(1284,2177,l),
-(898,1847,l),
-(628,2177,l),
-(498,2101,l),
-(743,1687,l),
-(1019,1687,l,{
-name = hr00;
-})
-);
+alignment = -1;
+angle = 180;
+pos = (2052,3847);
+ref = circumflex;
 }
 );
 width = 1690;
@@ -57,24 +42,16 @@ width = 1690;
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (956,1453);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1346,2098,l),
-(1309,2132,l),
-(893,1774,l),
-(600,2132,l),
-(558,2104,l),
-(856,1726,l),
-(924,1726,l,{
-name = hr00;
-})
-);
+alignment = -1;
+angle = 180;
+pos = (2071,3847);
+ref = circumflex;
 }
 );
 width = 1690;

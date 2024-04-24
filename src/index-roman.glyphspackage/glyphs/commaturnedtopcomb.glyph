@@ -5,14 +5,21 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (771,1453);
+pos = (845,1453);
 }
 );
 layerId = master01;
 shapes = (
 {
-pos = (-74,0);
-ref = commaturnedtop;
+closed = 1;
+nodes = (
+(879,1670,l),
+(1031,2166,l),
+(980,2166,l),
+(808,1670,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {
@@ -29,14 +36,21 @@ width = 1690;
 anchors = (
 {
 name = _top;
-pos = (822,1453);
+pos = (845,1453);
 }
 );
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-pos = (-23,0);
-ref = commaturnedtop;
+closed = 1;
+nodes = (
+(1064,1630,l),
+(1115,2236,l),
+(867,2236,l),
+(622,1630,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {
@@ -53,14 +67,21 @@ width = 1690;
 anchors = (
 {
 name = _top;
-pos = (813,1453);
+pos = (845,1453);
 }
 );
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (-32,0);
-ref = commaturnedtop;
+closed = 1;
+nodes = (
+(991,1653,l),
+(1070,2185,l),
+(898,2185,l),
+(684,1653,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {

@@ -8,7 +8,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (957,0);
+pos = (-58,0);
 ref = brevetilde;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (929,0);
+pos = (-38,0);
 ref = brevetilde;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (904,0);
+pos = (-49,0);
 ref = brevetilde;
 }
 );

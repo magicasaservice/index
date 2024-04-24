@@ -11,7 +11,15 @@ pos = (910,1453);
 layerId = master01;
 shapes = (
 {
-ref = grave;
+closed = 1;
+nodes = (
+(955,1681,l),
+(622,2143,l),
+(543,2143,l),
+(893,1681,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {
@@ -34,7 +42,15 @@ pos = (941,1453);
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-ref = grave;
+closed = 1;
+nodes = (
+(1048,1649,l),
+(769,2196,l),
+(298,2196,l),
+(800,1649,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {
@@ -57,7 +73,15 @@ pos = (930,1453);
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-ref = grave;
+closed = 1;
+nodes = (
+(1006,1647,l),
+(732,2196,l),
+(460,2196,l),
+(825,1647,l,{
+name = hr00;
+})
+);
 }
 );
 userData = {

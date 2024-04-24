@@ -1,0 +1,70 @@
+{
+glyphname = circumflexcomb_tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (845,1966);
+}
+);
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (0,23);
+ref = circumflexcomb.case;
+},
+{
+pos = (0,455);
+ref = tildecomb.case;
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (845,1966);
+}
+);
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+alignment = -1;
+pos = (0,-20);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (0,543);
+ref = tildecomb.case;
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (845,1966);
+}
+);
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+alignment = -1;
+pos = (0,23);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (0,554);
+ref = tildecomb.case;
+}
+);
+width = 1690;
+}
+);
+}

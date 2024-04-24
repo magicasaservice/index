@@ -1,0 +1,75 @@
+{
+glyphname = uhorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (834,0);
+},
+{
+name = top;
+pos = (834,1453);
+}
+);
+layerId = master01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (597,0);
+ref = horncomb;
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (839,0);
+},
+{
+name = top;
+pos = (839,1453);
+}
+);
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (597,0);
+ref = horncomb;
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (836,0);
+},
+{
+name = top;
+pos = (836,1453);
+}
+);
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (561,0);
+ref = horncomb;
+}
+);
+width = 1690;
+}
+);
+unicode = 432;
+}

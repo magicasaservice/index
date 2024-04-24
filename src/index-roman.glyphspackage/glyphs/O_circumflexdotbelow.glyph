@@ -8,10 +8,10 @@ shapes = (
 ref = O;
 },
 {
-ref = circumflex.case;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = circumflexcomb.case;
 }
 );
 userData = {
@@ -31,10 +31,10 @@ shapes = (
 ref = O;
 },
 {
-ref = circumflex.case;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = circumflexcomb.case;
 }
 );
 userData = {
@@ -54,10 +54,10 @@ shapes = (
 ref = O;
 },
 {
-ref = circumflex.case;
+ref = dotbelowcomb;
 },
 {
-ref = dotbelowcomb;
+ref = circumflexcomb.case;
 }
 );
 userData = {

@@ -8,7 +8,7 @@ shapes = (
 ref = Y;
 },
 {
-ref = tilde.case;
+ref = tildecomb.case;
 }
 );
 userData = {
@@ -28,7 +28,7 @@ shapes = (
 ref = Y;
 },
 {
-ref = tilde.case;
+ref = tildecomb.case;
 }
 );
 userData = {
@@ -48,7 +48,7 @@ shapes = (
 ref = Y;
 },
 {
-ref = tilde.case;
+ref = tildecomb.case;
 }
 );
 userData = {

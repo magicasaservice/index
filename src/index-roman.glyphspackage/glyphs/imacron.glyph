@@ -8,8 +8,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (90,0);
-ref = macron;
+pos = (82,0);
+ref = macroncomb;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = dotlessi;
 },
 {
 pos = (90,0);
-ref = macron;
+ref = macroncomb;
 }
 );
 userData = {
@@ -51,7 +51,7 @@ ref = dotlessi;
 },
 {
 pos = (90,0);
-ref = macron;
+ref = macroncomb;
 }
 );
 userData = {

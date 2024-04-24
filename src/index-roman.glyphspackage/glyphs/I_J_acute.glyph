@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = IJacute;
 layers = (
 {
@@ -11,12 +12,12 @@ ref = IJ;
 {
 alignment = -1;
 pos = (-498,0);
-ref = acute.case;
+ref = acutecomb.case;
 },
 {
 alignment = -1;
 pos = (480,0);
-ref = acute.case;
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -39,12 +40,12 @@ ref = IJ;
 {
 alignment = -1;
 pos = (-462,0);
-ref = acute.case;
+ref = acutecomb.case;
 },
 {
 alignment = -1;
 pos = (417,0);
-ref = acute.case;
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -66,12 +67,12 @@ ref = IJ;
 {
 alignment = -1;
 pos = (-453,0);
-ref = acute.case;
+ref = acutecomb.case;
 },
 {
 alignment = -1;
 pos = (480,0);
-ref = acute.case;
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -82,7 +83,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 3380;
 }
 );
 }

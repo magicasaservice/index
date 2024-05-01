@@ -8,8 +8,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-50,0);
-ref = grave;
+pos = (-66,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-42,0);
-ref = grave;
+pos = (-90,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-84,0);
-ref = grave;
+pos = (-119,0);
+ref = gravecomb;
 }
 );
 userData = {

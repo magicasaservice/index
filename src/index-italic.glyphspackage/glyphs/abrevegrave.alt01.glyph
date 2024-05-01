@@ -8,8 +8,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-54,0);
-ref = brevegrave;
+pos = (-49,0);
+ref = brevecomb_gravecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-25,0);
-ref = brevegrave;
+pos = (-24,0);
+ref = brevecomb_gravecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-27,0);
-ref = brevegrave;
+pos = (-33,0);
+ref = brevecomb_gravecomb;
 }
 );
 userData = {

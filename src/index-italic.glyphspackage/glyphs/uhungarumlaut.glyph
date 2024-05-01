@@ -8,8 +8,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (44,0);
-ref = hungarumlaut;
+pos = (107,0);
+ref = hungarumlautcomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (12,0);
-ref = hungarumlaut;
+pos = (112,0);
+ref = hungarumlautcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (7,0);
-ref = hungarumlaut;
+pos = (107,0);
+ref = hungarumlautcomb;
 }
 );
 userData = {

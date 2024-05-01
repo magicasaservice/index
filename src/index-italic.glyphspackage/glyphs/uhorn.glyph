@@ -18,7 +18,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (646,0);
+pos = (670,0);
 ref = horncomb;
 }
 );
@@ -41,7 +41,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (584,0);
+pos = (628,0);
 ref = horncomb;
 }
 );
@@ -64,7 +64,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (584,0);
+pos = (613,0);
 ref = horncomb;
 }
 );

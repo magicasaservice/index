@@ -8,12 +8,12 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-27,0);
-ref = circumflex;
+pos = (-21,0);
+ref = dotbelowcomb;
 },
 {
-pos = (24,0);
-ref = dotbelowcomb;
+pos = (-49,0);
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -33,12 +33,12 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-2,0);
-ref = circumflex;
+pos = (16,0);
+ref = dotbelowcomb;
 },
 {
-pos = (15,0);
-ref = dotbelowcomb;
+pos = (-24,0);
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -58,12 +58,12 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-32,0);
-ref = circumflex;
+pos = (-72,0);
+ref = dotbelowcomb;
 },
 {
-pos = (-35,0);
-ref = dotbelowcomb;
+pos = (-33,0);
+ref = circumflexcomb;
 }
 );
 userData = {

@@ -8,8 +8,8 @@ shapes = (
 ref = w;
 },
 {
-pos = (1,0);
-ref = grave;
+pos = (432,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -20,7 +20,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 2535;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
@@ -29,8 +29,8 @@ shapes = (
 ref = w;
 },
 {
-pos = (48,0);
-ref = grave;
+pos = (490,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -41,7 +41,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 2535;
 },
 {
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
@@ -50,8 +50,8 @@ shapes = (
 ref = w;
 },
 {
-pos = (54,0);
-ref = grave;
+pos = (19,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -62,7 +62,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 2535;
 }
 );
 unicode = 7809;

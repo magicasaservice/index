@@ -2,70 +2,28 @@
 glyphname = macron;
 layers = (
 {
-anchors = (
-{
-name = _top;
-pos = (968,1453);
-}
-);
-layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1444,1735,l),
-(1492,2022,l),
-(633,2022,l),
-(585,1735,l,{
-name = hr00;
-})
-);
-}
-);
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (955,1453);
-}
-);
-layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1397,1797,l),
-(1428,1985,l),
-(648,1985,l),
-(617,1797,l,{
-name = hr00;
-})
-);
-}
-);
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (945,1453);
-}
-);
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1381,1881,l),
-(1390,1932,l),
-(663,1932,l),
-(655,1881,l,{
-name = hr00;
-})
+ref = macroncomb;
+}
 );
+width = 1690;
+},
+{
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+ref = macroncomb;
+}
+);
+width = 1690;
+},
+{
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+ref = macroncomb;
 }
 );
 width = 1690;

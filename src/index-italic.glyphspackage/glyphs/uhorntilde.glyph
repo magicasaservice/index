@@ -8,8 +8,8 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (115,0);
-ref = tilde.alt01;
+pos = (19,0);
+ref = tildecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (112,0);
-ref = tilde.alt01;
+pos = (34,0);
+ref = tildecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (107,0);
-ref = tilde.alt01;
+pos = (14,0);
+ref = tildecomb;
 }
 );
 userData = {

@@ -8,8 +8,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-27,0);
-ref = circumflex;
+pos = (-49,0);
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-2,0);
-ref = circumflex;
+pos = (-24,0);
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (-32,0);
-ref = circumflex;
+pos = (-33,0);
+ref = circumflexcomb;
 }
 );
 userData = {

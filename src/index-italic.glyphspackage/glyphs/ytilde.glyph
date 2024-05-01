@@ -8,8 +8,8 @@ shapes = (
 ref = y;
 },
 {
-pos = (138,0);
-ref = tilde;
+pos = (42,0);
+ref = tildecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = y;
 },
 {
-pos = (127,0);
-ref = tilde;
+pos = (49,0);
+ref = tildecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = y;
 },
 {
-pos = (107,0);
-ref = tilde;
+pos = (14,0);
+ref = tildecomb;
 }
 );
 userData = {

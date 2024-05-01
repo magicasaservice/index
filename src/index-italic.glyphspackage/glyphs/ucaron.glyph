@@ -9,7 +9,7 @@ ref = u;
 },
 {
 pos = (7,0);
-ref = caron;
+ref = caroncomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (-6,0);
-ref = caron;
+pos = (12,0);
+ref = caroncomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (-4,0);
-ref = caron;
+pos = (7,0);
+ref = caroncomb;
 }
 );
 userData = {

@@ -8,8 +8,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (197,0);
-ref = acute.case;
+pos = (-19,0);
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (188,0);
-ref = acute.case;
+pos = (-12,0);
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (205,0);
-ref = acute.case;
+pos = (-5,0);
+ref = acutecomb.case;
 }
 );
 userData = {

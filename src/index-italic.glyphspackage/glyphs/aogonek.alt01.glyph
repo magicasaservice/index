@@ -8,8 +8,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (515,0);
-ref = ogonek;
+pos = (246,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;
@@ -21,9 +21,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-alignment = -1;
-pos = (523,14);
-ref = ogonek;
+pos = (258,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;
@@ -35,9 +34,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-alignment = -1;
-pos = (423,0);
-ref = ogonek;
+pos = (233,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;

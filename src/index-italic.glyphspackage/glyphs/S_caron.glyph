@@ -8,8 +8,8 @@ shapes = (
 ref = S;
 },
 {
-pos = (188,0);
-ref = caron.case;
+pos = (11,0);
+ref = caroncomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = S;
 },
 {
-pos = (364,0);
-ref = caron.case;
+pos = (1,0);
+ref = caroncomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = S;
 },
 {
-pos = (143,0);
-ref = caron.case;
+pos = (-26,0);
+ref = caroncomb.case;
 }
 );
 userData = {

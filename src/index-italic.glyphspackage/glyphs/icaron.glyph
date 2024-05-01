@@ -9,7 +9,7 @@ ref = dotlessi;
 },
 {
 pos = (-50,0);
-ref = caron;
+ref = caroncomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-73,0);
-ref = caron;
+pos = (-55,0);
+ref = caroncomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-75,0);
-ref = caron;
+pos = (-64,0);
+ref = caroncomb;
 }
 );
 userData = {

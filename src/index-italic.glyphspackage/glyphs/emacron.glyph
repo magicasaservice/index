@@ -8,8 +8,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (-2,0);
-ref = macron;
+pos = (-1,0);
+ref = macroncomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (42,0);
-ref = macron;
+pos = (30,0);
+ref = macroncomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (15,0);
-ref = macron;
+pos = (-7,0);
+ref = macroncomb;
 }
 );
 userData = {

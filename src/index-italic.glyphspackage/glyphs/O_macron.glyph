@@ -8,8 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (7,0);
-ref = macron.case;
+ref = macroncomb.case;
 }
 );
 userData = {
@@ -30,7 +29,7 @@ ref = O;
 },
 {
 pos = (9,0);
-ref = macron.case;
+ref = macroncomb.case;
 }
 );
 userData = {
@@ -51,7 +50,7 @@ ref = O;
 },
 {
 pos = (1,0);
-ref = macron.case;
+ref = macroncomb.case;
 }
 );
 userData = {

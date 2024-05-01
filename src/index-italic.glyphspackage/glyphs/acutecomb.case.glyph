@@ -1,0 +1,74 @@
+{
+glyphname = acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (1055,1966);
+}
+);
+layerId = "B042A474-670A-4404-9662-903C467C1F9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1494,2622,l),
+(1415,2622,l),
+(1062,2160,l),
+(1128,2160,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (1061,1966);
+}
+);
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1672,2691,l),
+(1218,2691,l),
+(917,2114,l),
+(1247,2114,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (1045,1966);
+}
+);
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1581,2612,l),
+(1295,2612,l),
+(991,2136,l),
+(1188,2136,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1690;
+}
+);
+}

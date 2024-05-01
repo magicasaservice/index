@@ -5,59 +5,83 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,1453);
-}
-);
-layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
-shapes = (
-{
-ref = tilde;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (0,1453);
-}
-);
-layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
-shapes = (
-{
-ref = tilde;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (0,1453);
+pos = (938,1453);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-ref = tilde;
+alignment = -1;
+pos = (90,533);
+ref = _part.tilde;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (1991,3249);
+ref = _part.tilde;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (941,1453);
+}
+);
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+alignment = -1;
+pos = (93,551);
+ref = _part.tilde;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (1976,3157);
+ref = _part.tilde;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (923,1453);
+}
+);
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+alignment = -1;
+pos = (78,468);
+ref = _part.tilde;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (1995,3276);
+ref = _part.tilde;
 }
 );
 userData = {

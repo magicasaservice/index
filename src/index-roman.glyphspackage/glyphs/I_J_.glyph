@@ -5,40 +5,67 @@ layers = (
 layerId = master01;
 shapes = (
 {
-ref = I;
+alignment = -1;
+pos = (67,0);
+ref = _J;
 },
 {
-pos = (1690,0);
-ref = J;
+closed = 1;
+nodes = (
+(325,678,l),
+(387,678,l),
+(387,1966,l),
+(325,1966,l)
+);
 }
 );
-width = 3380;
+width = 1690;
 },
 {
+annotations = (
+{
+pos = (761.971,659.594);
+type = Text;
+}
+);
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-ref = I;
+alignment = -1;
+pos = (62,0);
+ref = _J;
 },
 {
-pos = (1690,0);
-ref = J;
+closed = 1;
+nodes = (
+(189,678,l),
+(599,678,l),
+(599,1966,l),
+(189,1966,l)
+);
 }
 );
-width = 3380;
+width = 1690;
 },
 {
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-ref = I;
+alignment = -1;
+pos = (69,0);
+ref = _J;
 },
 {
-pos = (1690,0);
-ref = J;
+closed = 1;
+nodes = (
+(259,758,l),
+(490,758,l),
+(490,1966,l),
+(259,1966,l)
+);
 }
 );
-width = 3380;
+width = 1690;
 }
 );
 unicode = 306;

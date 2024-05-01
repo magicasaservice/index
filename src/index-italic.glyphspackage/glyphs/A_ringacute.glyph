@@ -9,7 +9,7 @@ ref = A;
 },
 {
 pos = (197,0);
-ref = ringacute.case;
+ref = ringcomb_acutecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (208,0);
-ref = ringacute.case;
+pos = (207,0);
+ref = ringcomb_acutecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (208,0);
-ref = ringacute.case;
+pos = (207,0);
+ref = ringcomb_acutecomb.case;
 }
 );
 userData = {

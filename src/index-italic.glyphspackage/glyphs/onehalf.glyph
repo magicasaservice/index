@@ -3,17 +3,20 @@ color = 1;
 glyphname = onehalf;
 layers = (
 {
-layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
+alignment = -1;
+pos = (-444,0);
 ref = one.numr;
 },
 {
-pos = (1690,0);
+alignment = -1;
 ref = fraction;
 },
 {
-pos = (3380,0);
+alignment = -1;
+pos = (348,0);
 ref = two.dnom;
 }
 );
@@ -25,20 +28,52 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 5070;
+width = 1690;
+},
+{
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+alignment = -1;
+pos = (-412,0);
+ref = one.numr;
+},
+{
+alignment = -1;
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (450,0);
+ref = two.dnom;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
+alignment = -1;
+pos = (-407,0);
 ref = one.numr;
 },
 {
-pos = (1690,0);
+alignment = -1;
+pos = (-6,0);
 ref = fraction;
 },
 {
-pos = (3380,0);
+alignment = -1;
+pos = (416,0);
 ref = two.dnom;
 }
 );
@@ -50,32 +85,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 5070;
-},
-{
-layerId = "B042A474-670A-4404-9662-903C467C1F9E";
-shapes = (
-{
-ref = one.numr;
-},
-{
-pos = (1690,0);
-ref = fraction;
-},
-{
-pos = (3380,0);
-ref = two.dnom;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 5070;
+width = 1690;
 }
 );
 unicode = 189;

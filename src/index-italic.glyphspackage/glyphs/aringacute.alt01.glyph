@@ -8,8 +8,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (73,0);
-ref = ringacute;
+pos = (-49,0);
+ref = ringcomb_acutecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (98,0);
-ref = ringacute;
+pos = (-24,0);
+ref = ringcomb_acutecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = a.alt01;
 },
 {
-pos = (89,0);
-ref = ringacute;
+pos = (-33,0);
+ref = ringcomb_acutecomb;
 }
 );
 userData = {

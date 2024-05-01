@@ -9,7 +9,7 @@ ref = U;
 },
 {
 pos = (200,0);
-ref = ring.case;
+ref = ringcomb.case;
 }
 );
 userData = {
@@ -30,7 +30,7 @@ ref = U;
 },
 {
 pos = (188,0);
-ref = ring.case;
+ref = ringcomb.case;
 }
 );
 userData = {
@@ -51,7 +51,7 @@ ref = U;
 },
 {
 pos = (205,0);
-ref = ring.case;
+ref = ringcomb.case;
 }
 );
 userData = {

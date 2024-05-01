@@ -1,0 +1,62 @@
+{
+glyphname = brevecomb_acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (1037,1966);
+}
+);
+layerId = "B042A474-670A-4404-9662-903C467C1F9E";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (524,393);
+ref = acutecomb.case;
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (1049,1966);
+}
+);
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (574,534);
+ref = acutecomb.case;
+}
+);
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (1055,1966);
+}
+);
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (305,429);
+ref = acutecomb.case;
+}
+);
+width = 1690;
+}
+);
+}

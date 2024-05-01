@@ -8,8 +8,8 @@ shapes = (
 ref = Oslash;
 },
 {
-pos = (157,0);
-ref = acute.case;
+pos = (-59,0);
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = Oslash;
 },
 {
-pos = (183,0);
-ref = acute.case;
+pos = (-17,0);
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = Oslash;
 },
 {
-pos = (194,0);
-ref = acute.case;
+pos = (-16,0);
+ref = acutecomb.case;
 }
 );
 userData = {

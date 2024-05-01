@@ -8,8 +8,8 @@ shapes = (
 ref = g;
 },
 {
-pos = (87,0);
-ref = commaturnedtop;
+pos = (-35,0);
+ref = commaturnedtopcomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = g;
 },
 {
-pos = (79,0);
-ref = commaturnedtop;
+pos = (-43,0);
+ref = commaturnedtopcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = g;
 },
 {
-pos = (59,0);
-ref = commaturnedtop;
+pos = (-63,0);
+ref = commaturnedtopcomb;
 }
 );
 userData = {

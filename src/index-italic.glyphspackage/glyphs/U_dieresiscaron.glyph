@@ -8,8 +8,8 @@ shapes = (
 ref = U;
 },
 {
-pos = (-9,0);
-ref = dieresiscaron.case;
+pos = (7,0);
+ref = dieresiscomb_caroncomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = U;
 },
 {
-pos = (-7,0);
-ref = dieresiscaron.case;
+pos = (-2,0);
+ref = dieresiscomb_caroncomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = U;
 },
 {
-pos = (29,0);
-ref = dieresiscaron.case;
+pos = (13,0);
+ref = dieresiscomb_caroncomb.case;
 }
 );
 userData = {

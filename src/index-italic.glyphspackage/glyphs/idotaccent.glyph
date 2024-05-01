@@ -8,8 +8,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (36,0);
-ref = dotaccent;
+pos = (-84,0);
+ref = dotaccentcomb;
 }
 );
 width = 1690;
@@ -21,8 +21,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (45,0);
-ref = dotaccent;
+pos = (-75,0);
+ref = dotaccentcomb;
 }
 );
 width = 1690;
@@ -34,8 +34,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (50,0);
-ref = dotaccent;
+pos = (-90,0);
+ref = dotaccentcomb;
 }
 );
 width = 1690;

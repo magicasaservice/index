@@ -5,11 +5,12 @@ layers = (
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-ref = g.alt01;
+ref = g.alt02;
 },
 {
-pos = (96,0);
-ref = dotaccent;
+alignment = 1;
+pos = (-44,0);
+ref = dotaccentcomb;
 }
 );
 userData = {
@@ -26,11 +27,12 @@ width = 1690;
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-ref = g.alt01;
+ref = g.alt02;
 },
 {
-pos = (112,0);
-ref = dotaccent;
+alignment = 1;
+pos = (-8,0);
+ref = dotaccentcomb;
 }
 );
 userData = {
@@ -47,11 +49,11 @@ width = 1690;
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-ref = g.alt01;
+ref = g.alt02;
 },
 {
-pos = (81,0);
-ref = dotaccent;
+pos = (31,0);
+ref = dotaccentcomb;
 }
 );
 userData = {

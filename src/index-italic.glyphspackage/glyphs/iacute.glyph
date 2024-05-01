@@ -8,8 +8,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-45,0);
-ref = acute;
+pos = (-66,0);
+ref = acutecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-54,0);
-ref = acute;
+pos = (-71,0);
+ref = acutecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-41,0);
-ref = acute;
+pos = (-80,0);
+ref = acutecomb;
 }
 );
 userData = {

@@ -8,8 +8,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-178,0);
-ref = acute.case;
+pos = (-394,0);
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-183,0);
-ref = acute.case;
+pos = (-383,0);
+ref = acutecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-197,0);
-ref = acute.case;
+pos = (-407,0);
+ref = acutecomb.case;
 }
 );
 userData = {

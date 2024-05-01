@@ -8,8 +8,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (274,21);
-ref = ogonek;
+pos = (5,21);
+ref = ogonekcomb;
 }
 );
 width = 1690;
@@ -21,8 +21,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (169,-1);
-ref = ogonek;
+pos = (2,-1);
+ref = ogonekcomb;
 }
 );
 width = 1690;
@@ -34,8 +34,8 @@ shapes = (
 ref = e;
 },
 {
-pos = (129,0);
-ref = ogonek;
+pos = (19,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;

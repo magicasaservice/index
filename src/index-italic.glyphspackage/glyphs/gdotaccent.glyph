@@ -8,8 +8,8 @@ shapes = (
 ref = g;
 },
 {
-pos = (87,0);
-ref = dotaccent;
+pos = (-53,0);
+ref = dotaccentcomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = g;
 },
 {
-pos = (79,0);
-ref = dotaccent;
+pos = (-41,0);
+ref = dotaccentcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = g;
 },
 {
-pos = (59,0);
-ref = dotaccent;
+pos = (-61,0);
+ref = dotaccentcomb;
 }
 );
 userData = {

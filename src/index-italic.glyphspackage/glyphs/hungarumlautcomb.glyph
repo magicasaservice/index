@@ -5,59 +5,110 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,1453);
-}
-);
-layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
-shapes = (
-{
-ref = hungarumlaut;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (0,1453);
-}
-);
-layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
-shapes = (
-{
-ref = hungarumlaut;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (0,1453);
+pos = (845,1453);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-ref = hungarumlaut;
+closed = 1;
+nodes = (
+(890,2143,l),
+(557,1681,l),
+(620,1681,l),
+(969,2143,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(1340,2143,l),
+(1008,1681,l),
+(1070,1681,l),
+(1420,2143,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (845,1453);
+}
+);
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(642,2261,l),
+(307,1605,l),
+(591,1605,l),
+(1091,2261,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(1219,2261,l),
+(885,1605,l),
+(1169,1605,l),
+(1668,2261,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1690;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (845,1453);
+}
+);
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(743,2191,l),
+(473,1650,l),
+(639,1650,l),
+(1000,2191,l,{
+name = hr00;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(1194,2191,l),
+(924,1650,l),
+(1090,1650,l),
+(1450,2191,l)
+);
 }
 );
 userData = {

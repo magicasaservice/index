@@ -8,9 +8,8 @@ shapes = (
 ref = U;
 },
 {
-alignment = -1;
-pos = (175,0);
-ref = ogonek;
+pos = (-59,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;
@@ -22,9 +21,8 @@ shapes = (
 ref = U;
 },
 {
-alignment = -1;
-pos = (156,0);
-ref = ogonek;
+pos = (13,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;
@@ -36,9 +34,8 @@ shapes = (
 ref = U;
 },
 {
-alignment = -1;
-pos = (144,0);
-ref = ogonek;
+pos = (25,0);
+ref = ogonekcomb;
 }
 );
 width = 1690;

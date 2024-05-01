@@ -8,8 +8,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (208,0);
-ref = breve.case;
+pos = (1,0);
+ref = brevecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (203,0);
-ref = breve.case;
+pos = (-4,0);
+ref = brevecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (208,0);
-ref = breve.case;
+pos = (1,0);
+ref = brevecomb.case;
 }
 );
 userData = {

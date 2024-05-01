@@ -1,72 +1,29 @@
 {
-color = 1;
 glyphname = grave;
 layers = (
 {
-anchors = (
-{
-name = _top;
-pos = (945,1453);
-}
-);
-layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1148,1726,l),
-(949,2273,l),
-(478,2273,l),
-(900,1726,l,{
-name = hr00;
-})
-);
-}
-);
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (932,1453);
-}
-);
-layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1086,1647,l),
-(842,2194,l),
-(570,2196,l),
-(905,1647,l,{
-name = hr00;
-})
-);
-}
-);
-width = 1690;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (965,1453);
-}
-);
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1085,1681,l),
-(832,2143,l),
-(753,2143,l),
-(1023,1681,l,{
-name = hr00;
-})
+ref = gravecomb;
+}
 );
+width = 1690;
+},
+{
+layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 1690;
+},
+{
+layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
+shapes = (
+{
+ref = gravecomb;
 }
 );
 width = 1690;

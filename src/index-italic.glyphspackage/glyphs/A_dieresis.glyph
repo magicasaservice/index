@@ -8,8 +8,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (197,0);
-ref = dieresis.case;
+pos = (-11,0);
+ref = dieresiscomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (208,0);
-ref = dieresis.case;
+pos = (17,0);
+ref = dieresiscomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (208,0);
-ref = dieresis.case;
+pos = (8,0);
+ref = dieresiscomb.case;
 }
 );
 userData = {

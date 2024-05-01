@@ -8,8 +8,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (109,0);
-ref = circumflexacute.case;
+pos = (-11,0);
+ref = circumflexcomb_acutecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (132,0);
-ref = circumflexacute.case;
+pos = (8,0);
+ref = circumflexcomb_acutecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (138,0);
-ref = circumflexacute.case;
+pos = (3,0);
+ref = circumflexcomb_acutecomb.case;
 }
 );
 userData = {

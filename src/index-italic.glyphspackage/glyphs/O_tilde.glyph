@@ -8,8 +8,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (207,0);
-ref = tilde.case;
+pos = (6,0);
+ref = tildecomb.case;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (209,0);
-ref = tilde.case;
+pos = (3,0);
+ref = tildecomb.case;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (201,0);
-ref = tilde.case;
+pos = (-6,0);
+ref = tildecomb.case;
 }
 );
 userData = {

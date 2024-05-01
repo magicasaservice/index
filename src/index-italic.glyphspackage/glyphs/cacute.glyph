@@ -8,8 +8,8 @@ shapes = (
 ref = c;
 },
 {
-pos = (15,0);
-ref = acute;
+pos = (-6,0);
+ref = acutecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = c;
 },
 {
-pos = (11,0);
-ref = acute;
+pos = (-6,0);
+ref = acutecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = c;
 },
 {
-pos = (-4,0);
-ref = acute;
+pos = (-43,0);
+ref = acutecomb;
 }
 );
 userData = {

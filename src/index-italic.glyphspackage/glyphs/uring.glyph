@@ -8,8 +8,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (107,0);
-ref = ring;
+pos = (-15,0);
+ref = ringcomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (112,0);
-ref = ring;
+pos = (-10,0);
+ref = ringcomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (107,0);
-ref = ring;
+pos = (-15,0);
+ref = ringcomb;
 }
 );
 userData = {

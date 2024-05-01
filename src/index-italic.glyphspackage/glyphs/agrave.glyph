@@ -8,8 +8,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (-27,0);
-ref = grave;
+pos = (37,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -29,8 +29,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (-42,0);
-ref = grave;
+pos = (-90,0);
+ref = gravecomb;
 }
 );
 userData = {
@@ -50,8 +50,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (-61,0);
-ref = grave;
+pos = (-96,0);
+ref = gravecomb;
 }
 );
 userData = {

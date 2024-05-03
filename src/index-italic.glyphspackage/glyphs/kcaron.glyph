@@ -8,6 +8,7 @@ shapes = (
 ref = k;
 },
 {
+pos = (-464,40);
 ref = caroncomb.case;
 }
 );
@@ -20,6 +21,7 @@ shapes = (
 ref = k;
 },
 {
+pos = (-434,40);
 ref = caroncomb.case;
 }
 );

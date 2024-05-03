@@ -1,5 +1,5 @@
 {
-.appVersion = "3303";
+.appVersion = "3305";
 .formatVersion = 3;
 axes = (
 {
@@ -567,11 +567,6 @@ name = winDescent;
 value = 1070;
 }
 );
-guides = (
-{
-pos = (228,2084);
-}
-);
 iconName = Bold;
 id = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 metricValues = (
@@ -638,6 +633,7 @@ instanceInterpolations = {
 "B042A474-670A-4404-9662-903C467C1F9E" = 0.33333;
 };
 name = "Light Italic";
+visible = 0;
 weightClass = 300;
 },
 {

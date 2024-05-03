@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = oe;
 layers = (
 {
@@ -12,7 +12,7 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (977,0);
+pos = (1004,0);
 ref = e;
 }
 );
@@ -28,7 +28,7 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (942,0);
+pos = (919,0);
 ref = e;
 }
 );
@@ -39,12 +39,12 @@ layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
 alignment = -1;
-pos = (-116,0);
+pos = (-106,0);
 ref = o;
 },
 {
 alignment = -1;
-pos = (958,0);
+pos = (952,0);
 ref = e;
 }
 );

@@ -49,6 +49,7 @@ feature frac;
 feature ordn;
 feature case;
 feature ss01;
+feature ss02;
 ";
 tag = aalt;
 },
@@ -310,6 +311,8 @@ sub aogonek by aogonek.ss01;
 sub aring by aring.ss01;
 sub aringacute by aringacute.ss01;
 sub atilde by atilde.ss01;
+sub ae by ae.ss01;
+sub aeacute by aeacute.ss01;
 sub g by g.ss01;
 sub gbreve by gbreve.ss01;
 sub gcircumflex by gcircumflex.ss01;
@@ -317,11 +320,13 @@ sub gcommaaccent by gcommaaccent.ss01;
 sub gdotaccent by gdotaccent.ss01;
 sub gstroke by gstroke.ss01;
 sub m by m.ss01;
+sub oe by oe.ss01;
 sub w by w.ss01;
 sub wacute by wacute.ss01;
 sub wcircumflex by wcircumflex.ss01;
 sub wdieresis by wdieresis.ss01;
 sub wgrave by wgrave.ss01;
+sub at by at.ss01;
 ";
 labels = (
 {
@@ -330,6 +335,12 @@ value = "";
 }
 );
 tag = ss01;
+},
+{
+automatic = 1;
+code = "sub germandbls by germandbls.ss02;
+";
+tag = ss02;
 }
 );
 fontMaster = (
@@ -513,6 +524,8 @@ axesValues = (
 instanceInterpolations = {
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 1;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = 700;
 },
@@ -564,7 +577,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2017 IBM Corp. All rights reserved.";
+value = "Copyright 2024 Dream Tyoe. All rights reserved.";
 }
 );
 },
@@ -572,14 +585,18 @@ value = "Copyright 2017 IBM Corp. All rights reserved.";
 key = designers;
 values = (
 {
-language = dflt;
-value = "Mike Abbink, Paul van der Laan, Pieter van Rosmalen";
+language = DEU;
+value = "Andreas Faust";
+},
+{
+language = DEU;
+value = "Stefan Endress";
 }
 );
 },
 {
 key = designerURL;
-value = "http://www.ibm.com";
+value = "http://www.dreamtype.com";
 },
 {
 key = licenses;
@@ -595,13 +612,13 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Bold Monday";
+value = DreamType;
 }
 );
 },
 {
 key = manufacturerURL;
-value = "http://www.boldmonday.com";
+value = "http://www.dreamtype.com";
 },
 {
 key = versionString;

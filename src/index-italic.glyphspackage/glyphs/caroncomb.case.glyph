@@ -12,7 +12,7 @@ layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
 angle = 180;
-pos = (2220,4621);
+pos = (2225,4651);
 ref = circumflexcomb.case;
 }
 );

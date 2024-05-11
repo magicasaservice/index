@@ -5,11 +5,12 @@ layers = (
 layerId = master01;
 shapes = (
 {
-pos = (-17,0);
-ref = macroncomb;
+ref = g.alt02;
 },
 {
-ref = g.alt02;
+alignment = 1;
+pos = (14,0);
+ref = macroncomb;
 }
 );
 width = 1690;
@@ -18,11 +19,11 @@ width = 1690;
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (-17,0);
-ref = macroncomb;
+ref = g.alt02;
 },
 {
-ref = g.alt02;
+pos = (40,0);
+ref = macroncomb;
 }
 );
 width = 1690;
@@ -31,11 +32,11 @@ width = 1690;
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-pos = (-17,0);
-ref = macroncomb;
+ref = g.alt02;
 },
 {
-ref = g.alt02;
+pos = (39,0);
+ref = macroncomb;
 }
 );
 width = 1690;

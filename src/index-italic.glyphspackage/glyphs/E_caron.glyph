@@ -50,6 +50,7 @@ shapes = (
 ref = E;
 },
 {
+alignment = -1;
 pos = (29,0);
 ref = caroncomb.case;
 }

@@ -35,12 +35,13 @@ shapes = (
 ref = u;
 },
 {
-pos = (-6,0);
+alignment = -1;
+pos = (-9,-50);
 ref = dieresiscomb;
 },
 {
 alignment = -1;
-pos = (-102,540);
+pos = (-94,429);
 ref = gravecomb;
 }
 );

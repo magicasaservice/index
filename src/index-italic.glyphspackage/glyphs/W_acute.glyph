@@ -8,7 +8,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (248,0);
+pos = (422,0);
 ref = acutecomb.case;
 }
 );
@@ -29,7 +29,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (281,0);
+pos = (425,0);
 ref = acutecomb.case;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (272,0);
+pos = (424,0);
 ref = acutecomb.case;
 }
 );

@@ -35,7 +35,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (430,-84);
+pos = (430,898);
 ref = strokeshortcomb;
 scale = (0.9629,1);
 }

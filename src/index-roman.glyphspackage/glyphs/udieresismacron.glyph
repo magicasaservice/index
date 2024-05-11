@@ -12,7 +12,8 @@ pos = (-11,0);
 ref = dieresiscomb;
 },
 {
-pos = (-11,0);
+alignment = -1;
+pos = (-11,300);
 ref = macroncomb;
 }
 );

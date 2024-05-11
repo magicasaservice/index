@@ -78,7 +78,7 @@ width = 1690;
 anchors = (
 {
 name = bottom;
-pos = (712,0);
+pos = (772,0);
 },
 {
 name = top;
@@ -150,7 +150,7 @@ width = 1690;
 anchors = (
 {
 name = bottom;
-pos = (738,0);
+pos = (818,0);
 },
 {
 name = top;

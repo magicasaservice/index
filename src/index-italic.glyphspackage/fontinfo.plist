@@ -337,6 +337,10 @@ stemValues = (
 59,
 54
 );
+userData = {
+GSOffsetHorizontal = 1;
+GSOffsetVertical = 1;
+};
 },
 {
 axesValues = (
@@ -415,6 +419,10 @@ GSOffsetVertical = 0;
 }
 );
 instances = (
+{
+name = Italic;
+type = variable;
+},
 {
 axesValues = (
 100
@@ -1763,6 +1771,6 @@ com.typemytype.robofont.layerOrder = (
 };
 UFOFormat = 2;
 };
-versionMajor = 2;
-versionMinor = 3;
+versionMajor = 0;
+versionMinor = 0;
 }

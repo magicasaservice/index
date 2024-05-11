@@ -9,7 +9,7 @@ alignment = 1;
 ref = circumflexcomb;
 },
 {
-pos = (-314,464);
+pos = (-314,414);
 ref = gravecomb;
 }
 );

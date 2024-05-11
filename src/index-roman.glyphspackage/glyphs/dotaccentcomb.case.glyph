@@ -36,7 +36,7 @@ name = hr00;
 layerId = master01;
 shapes = (
 {
-pos = (0,472);
+pos = (0,442);
 ref = dotaccentcomb;
 }
 );

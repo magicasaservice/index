@@ -3,6 +3,12 @@ color = 4;
 glyphname = ezh;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (837,1453);
+}
+);
 background = {
 shapes = (
 {
@@ -111,6 +117,12 @@ width = 97;
 width = 1640;
 },
 {
+anchors = (
+{
+name = top;
+pos = (907,1453);
+}
+);
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
@@ -170,6 +182,12 @@ width = 95;
 width = 1690;
 },
 {
+anchors = (
+{
+name = top;
+pos = (837,1453);
+}
+);
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {

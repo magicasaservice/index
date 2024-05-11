@@ -14,7 +14,7 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (524,393);
+pos = (45,393);
 ref = acutecomb.case;
 }
 );
@@ -33,7 +33,7 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (574,534);
+pos = (83,574);
 ref = acutecomb.case;
 }
 );
@@ -52,7 +52,7 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (305,429);
+pos = (63,469);
 ref = acutecomb.case;
 }
 );

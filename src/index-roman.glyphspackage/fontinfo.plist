@@ -1,5 +1,5 @@
 {
-.appVersion = "3305";
+.appVersion = "3306";
 .formatVersion = 3;
 axes = (
 {
@@ -376,6 +376,10 @@ stemValues = (
 59,
 54
 );
+userData = {
+GSOffsetHorizontal = 1;
+GSOffsetVertical = 1;
+};
 },
 {
 axesValues = (
@@ -445,6 +449,10 @@ stemValues = (
 );
 instances = (
 {
+name = Regular;
+type = variable;
+},
+{
 axesValues = (
 100
 );
@@ -463,6 +471,7 @@ instanceInterpolations = {
 master01 = 0.66667;
 };
 name = Ultralight;
+visible = 0;
 weightClass = 200;
 },
 {

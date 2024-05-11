@@ -12,7 +12,7 @@ layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
 alignment = -1;
-pos = (55,472);
+pos = (26,372);
 ref = dotaccentcomb;
 }
 );
@@ -46,7 +46,7 @@ layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
 alignment = -1;
-pos = (15,482);
+pos = (15,472);
 ref = dotaccentcomb;
 }
 );

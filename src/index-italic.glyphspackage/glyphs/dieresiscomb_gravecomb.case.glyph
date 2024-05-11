@@ -39,7 +39,7 @@ ref = dieresiscomb.case;
 scale = (-1,1);
 },
 {
-pos = (67,466);
+pos = (49,500);
 ref = gravecomb.case;
 }
 );
@@ -61,7 +61,7 @@ ref = dieresiscomb.case;
 scale = (-1,1);
 },
 {
-pos = (77,308);
+pos = (65,395);
 ref = gravecomb.case;
 }
 );

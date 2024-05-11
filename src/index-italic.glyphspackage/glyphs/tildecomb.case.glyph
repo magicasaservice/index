@@ -12,7 +12,7 @@ layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
 alignment = -1;
-pos = (-260,346);
+pos = (-260,426);
 ref = tildecomb;
 slant = (9.5,0);
 }
@@ -29,7 +29,7 @@ pos = (1046,1966);
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-pos = (78,468);
+pos = (83,498);
 ref = tildecomb;
 }
 );
@@ -45,7 +45,7 @@ pos = (1051,1966);
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-pos = (63,376);
+pos = (75,446);
 ref = tildecomb;
 }
 );

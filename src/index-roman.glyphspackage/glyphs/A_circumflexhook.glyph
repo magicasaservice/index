@@ -8,7 +8,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (83,0);
 ref = circumflexcomb_hookcomb.case;
 }
 );
@@ -29,7 +28,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (109,0);
 ref = circumflexcomb_hookcomb.case;
 }
 );
@@ -50,7 +48,6 @@ shapes = (
 ref = A;
 },
 {
-pos = (101,0);
 ref = circumflexcomb_hookcomb.case;
 }
 );

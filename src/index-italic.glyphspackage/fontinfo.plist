@@ -49,6 +49,9 @@ feature frac;
 feature ordn;
 feature case;
 feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
 ";
 tag = aalt;
 },
@@ -62,13 +65,17 @@ code = "lookup ccmp_DFLT_1 {
 	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
 	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+	sub dieresiscomb acutecomb by dieresiscomb_acutecomb;
+	sub dieresiscomb caroncomb by dieresiscomb_caroncomb;
+	sub dieresiscomb gravecomb by dieresiscomb_gravecomb;
+	sub dieresiscomb macroncomb by dieresiscomb_macroncomb;
 	sub ringcomb acutecomb by ringcomb_acutecomb;
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
 	lookupflag 0;
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb ringcomb ringcomb_acutecomb tildecomb macroncomb];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case ringcomb.case ringcomb_acutecomb.case tildecomb.case macroncomb.case];
+	@Markscomb = [dieresiscomb dieresiscomb_gravecomb dieresiscomb_acutecomb dieresiscomb_caroncomb dieresiscomb_macroncomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb ringcomb ringcomb_acutecomb tildecomb macroncomb];
+	@MarkscombCase = [dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_caroncomb.case dieresiscomb_macroncomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case ringcomb.case ringcomb_acutecomb.case tildecomb.case macroncomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
@@ -242,6 +249,10 @@ tag = ordn;
 {
 automatic = 1;
 code = "sub dieresiscomb by dieresiscomb.case;
+sub dieresiscomb_gravecomb by dieresiscomb_gravecomb.case;
+sub dieresiscomb_acutecomb by dieresiscomb_acutecomb.case;
+sub dieresiscomb_caroncomb by dieresiscomb_caroncomb.case;
+sub dieresiscomb_macroncomb by dieresiscomb_macroncomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
@@ -263,26 +274,23 @@ sub macroncomb by macroncomb.case;
 tag = case;
 },
 {
-automatic = 1;
 code = "lookupflag IgnoreMarks;
+";
+tag = dlig;
+},
+{
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
 sub i l l by i_l_l;
 sub i l by i_l;
 sub l i by l_i;
 sub l l by l_l;
 sub t t by t_t;
 ";
-tag = dlig;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f i by fi;
-sub f l by fl;
-";
 tag = liga;
 },
 {
-automatic = 1;
 code = "sub M by M.ss01;
 sub W by W.ss01;
 sub Wacute by Wacute.ss01;
@@ -299,8 +307,81 @@ sub wcircumflex by wcircumflex.ss01;
 sub wdieresis by wdieresis.ss01;
 sub wgrave by wgrave.ss01;
 sub at by at.ss01;
+
+sub i_l_l by i l l;
+sub i_l by i l;
+sub l_i by l i;
+sub l_l by l l;
+sub t_t by t t;
 ";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
 tag = ss01;
+},
+{
+automatic = 1;
+code = "sub a by a.ss02;
+sub aacute by aacute.ss02;
+sub abreve by abreve.ss02;
+sub abreveacute by abreveacute.ss02;
+sub abrevedotbelow by abrevedotbelow.ss02;
+sub abrevegrave by abrevegrave.ss02;
+sub abrevetilde by abrevetilde.ss02;
+sub acaron by acaron.ss02;
+sub acircumflex by acircumflex.ss02;
+sub acircumflexacute by acircumflexacute.ss02;
+sub acircumflexdotbelow by acircumflexdotbelow.ss02;
+sub acircumflexgrave by acircumflexgrave.ss02;
+sub acircumflextilde by acircumflextilde.ss02;
+sub adieresis by adieresis.ss02;
+sub adotbelow by adotbelow.ss02;
+sub agrave by agrave.ss02;
+sub amacron by amacron.ss02;
+sub aogonek by aogonek.ss02;
+sub aring by aring.ss02;
+sub aringacute by aringacute.ss02;
+sub atilde by atilde.ss02;
+sub g by g.ss02;
+sub gbreve by gbreve.ss02;
+sub gcircumflex by gcircumflex.ss02;
+sub gcommaaccent by gcommaaccent.ss02;
+sub gdotaccent by gdotaccent.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub germandbls by germandbls.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss03;
+},
+{
+automatic = 1;
+code = "sub zero by zero.ss04;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss04;
 }
 );
 fontMaster = (

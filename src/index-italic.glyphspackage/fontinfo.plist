@@ -1,5 +1,5 @@
 {
-.appVersion = "3306";
+.appVersion = "3309";
 .formatVersion = 3;
 axes = (
 {
@@ -14,7 +14,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehook Abreve
 name = Uppercase;
 }
 );
-date = "2021-02-10 03:02:16 +0000";
+date = "2024-06-11 13:43:36 +0000";
 familyName = Index;
 featurePrefixes = (
 {
@@ -501,6 +501,12 @@ GSOffsetVertical = 0;
 );
 instances = (
 {
+customParameters = (
+{
+name = fileName;
+value = "Index-VariableItalic";
+}
+);
 name = Italic;
 type = variable;
 },
@@ -599,8 +605,9 @@ axesValues = (
 instanceInterpolations = {
 "586BE664-8D6A-4867-BE1B-390608DE01EA" = 1;
 };
+isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
+linkStyle = Regular;
 name = "Bold Italic";
 weightClass = 700;
 },
@@ -702,19 +709,6 @@ value = DreamType;
 {
 key = manufacturerURL;
 value = "http://www.dreamtype.com";
-},
-{
-key = trademarks;
-values = (
-{
-language = dflt;
-value = "–";
-}
-);
-},
-{
-key = versionString;
-value = "Version 2.003 2021";
 }
 );
 settings = {
@@ -1852,6 +1846,6 @@ com.typemytype.robofont.layerOrder = (
 };
 UFOFormat = 2;
 };
-versionMajor = 0;
-versionMinor = 0;
+versionMajor = 1;
+versionMinor = 1;
 }

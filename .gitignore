@@ -1,4 +1,6 @@
 .DS_Store
 UIState.plist
-*(Autosaved).glyphs
-*.glyphspackage.**
+*(Autosaved).glyphs*
+*(Automatisch gesichert).glyphs*
+assets
+*.code-workspace

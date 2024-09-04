@@ -1,5 +1,5 @@
 {
-.appVersion = "3309";
+.appVersion = "3316";
 .formatVersion = 3;
 axes = (
 {
@@ -14,7 +14,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehook Abreve
 name = Uppercase;
 }
 );
-date = "2024-06-11 13:43:12 +0000";
+date = "2024-09-04 21:52:16 +0000";
 familyName = Index;
 featurePrefixes = (
 {
@@ -484,7 +484,7 @@ name = fileName;
 value = "Index-Variable";
 }
 );
-name = Regular;
+name = Variable;
 type = variable;
 },
 {
@@ -537,7 +537,7 @@ instanceInterpolations = {
 "661A777E-9960-44AA-8623-3AD7C626B4F3" = 0.83333;
 "D7CFBB37-D300-46E8-A355-ECFF19545BAA" = 0.16667;
 };
-name = Text;
+name = Book;
 },
 {
 axesValues = (
@@ -1801,5 +1801,5 @@ com.typemytype.robofont.layerOrder = (
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }

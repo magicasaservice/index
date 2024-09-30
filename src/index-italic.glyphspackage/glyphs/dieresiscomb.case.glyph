@@ -5,49 +5,49 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (1045,1966);
+pos = (760,1430);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-pos = (62,372);
+pos = (45,271);
 ref = dieresiscomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1053,1966);
+pos = (766,1430);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-pos = (77,462);
+pos = (56,336);
 ref = dieresiscomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1036,1966);
+pos = (753,1430);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-pos = (70,421);
+pos = (51,306);
 ref = dieresiscomb;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

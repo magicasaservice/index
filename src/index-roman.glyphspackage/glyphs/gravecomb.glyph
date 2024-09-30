@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (910,1453);
+pos = (662,1057);
 }
 );
 layerId = master01;
@@ -13,10 +13,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(955,1681,l),
-(622,2143,l),
-(543,2143,l),
-(893,1681,l,{
+(695,1223,l),
+(452,1559,l),
+(395,1559,l),
+(649,1223,l,{
 name = hr00;
 })
 );
@@ -30,13 +30,13 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (941,1453);
+pos = (684,1057);
 }
 );
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
@@ -44,10 +44,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1048,1649,l),
-(769,2196,l),
-(298,2196,l),
-(800,1649,l,{
+(762,1199,l),
+(559,1597,l),
+(217,1597,l),
+(582,1199,l,{
 name = hr00;
 })
 );
@@ -61,13 +61,13 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (930,1453);
+pos = (676,1057);
 }
 );
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
@@ -75,10 +75,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1006,1647,l),
-(732,2196,l),
-(460,2196,l),
-(825,1647,l,{
+(732,1198,l),
+(532,1597,l),
+(335,1597,l),
+(600,1198,l,{
 name = hr00;
 })
 );
@@ -92,7 +92,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 768;

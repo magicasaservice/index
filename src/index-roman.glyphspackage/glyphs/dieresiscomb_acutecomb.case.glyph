@@ -5,14 +5,14 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (843,1966);
+pos = (613,1430);
 }
 );
 layerId = master01;
 shapes = (
 {
 alignment = -1;
-pos = (0,370);
+pos = (0,269);
 ref = acutecomb.case;
 },
 {
@@ -20,47 +20,47 @@ alignment = -1;
 ref = dieresiscomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (846,1966);
+pos = (615,1430);
 }
 );
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
 alignment = -1;
-pos = (15,513);
+pos = (11,373);
 ref = acutecomb.case;
 },
 {
 ref = dieresiscomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (846,1966);
+pos = (615,1430);
 }
 );
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
 alignment = -1;
-pos = (12,405);
+pos = (9,295);
 ref = acutecomb.case;
 },
 {
 ref = dieresiscomb.case;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

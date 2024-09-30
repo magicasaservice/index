@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (918,1453);
+pos = (668,1057);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
@@ -14,17 +14,17 @@ shapes = (
 ref = a;
 },
 {
-pos = (390,0);
+pos = (284,0);
 ref = ogonekcomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = top;
-pos = (890,1453);
+pos = (647,1057);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
@@ -33,17 +33,17 @@ shapes = (
 ref = a;
 },
 {
-pos = (474,0);
+pos = (345,0);
 ref = ogonekcomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = top;
-pos = (904,1453);
+pos = (657,1057);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
@@ -52,11 +52,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (501,0);
+pos = (364,0);
 ref = ogonekcomb;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 unicode = 261;

@@ -6,7 +6,7 @@ layerId = master01;
 shapes = (
 {
 alignment = -1;
-pos = (-369,0);
+pos = (-268,0);
 ref = one.numr;
 },
 {
@@ -15,7 +15,7 @@ ref = fraction;
 },
 {
 alignment = -1;
-pos = (328,0);
+pos = (239,0);
 ref = four.dnom;
 }
 );
@@ -27,24 +27,24 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
 alignment = -1;
-pos = (-405,0);
+pos = (-295,0);
 ref = one.numr;
 },
 {
 alignment = -1;
-pos = (-2,0);
+pos = (-1,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (380,0);
+pos = (276,0);
 ref = four.dnom;
 }
 );
@@ -56,24 +56,24 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
 alignment = -1;
-pos = (-405,0);
+pos = (-295,0);
 ref = one.numr;
 },
 {
 alignment = -1;
-pos = (-8,0);
+pos = (-6,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (325,0);
+pos = (236,0);
 ref = four.dnom;
 }
 );
@@ -85,7 +85,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 188;

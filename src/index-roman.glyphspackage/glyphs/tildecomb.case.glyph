@@ -5,49 +5,49 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (845,1966);
+pos = (615,1430);
 }
 );
 layerId = master01;
 shapes = (
 {
-pos = (0,406);
+pos = (0,295);
 ref = tildecomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (845,1966);
+pos = (615,1430);
 }
 );
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-pos = (0,468);
+pos = (0,340);
 ref = tildecomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (845,1966);
+pos = (615,1430);
 }
 );
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (0,376);
+pos = (0,273);
 ref = tildecomb;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

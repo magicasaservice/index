@@ -5,67 +5,67 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (1056,1966);
+pos = (768,1430);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
 alignment = -1;
-pos = (2211,0);
+pos = (1608,0);
 ref = dieresiscomb.case;
 scale = (-1,1);
 },
 {
-pos = (77,308);
+pos = (56,224);
 ref = gravecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1058,1966);
+pos = (769,1430);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
 alignment = -1;
-pos = (2211,0);
+pos = (1608,0);
 ref = dieresiscomb.case;
 scale = (-1,1);
 },
 {
-pos = (49,500);
+pos = (36,364);
 ref = gravecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1061,1966);
+pos = (772,1430);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
 alignment = -1;
-pos = (2211,0);
+pos = (1608,0);
 ref = dieresiscomb.case;
 scale = (-1,1);
 },
 {
-pos = (65,395);
+pos = (47,287);
 ref = gravecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

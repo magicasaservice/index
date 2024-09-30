@@ -5,66 +5,66 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (1077,1966);
+pos = (783,1430);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
 alignment = -1;
-pos = (0,23);
+pos = (0,17);
 ref = circumflexcomb.case;
 },
 {
-pos = (73,445);
+pos = (53,324);
 ref = tildecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1045,1966);
+pos = (760,1430);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
 alignment = -1;
-pos = (0,-20);
+pos = (0,-15);
 ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-pos = (100,513);
+pos = (73,373);
 ref = tildecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1045,1966);
+pos = (760,1430);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
 alignment = -1;
-pos = (0,23);
+pos = (0,17);
 ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-pos = (80,494);
+pos = (58,359);
 ref = tildecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

@@ -8,7 +8,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (41,0);
+pos = (30,0);
 ref = acutecomb;
 }
 );
@@ -20,7 +20,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
@@ -29,7 +29,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (78,0);
+pos = (57,0);
 ref = acutecomb;
 }
 );
@@ -41,7 +41,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
@@ -50,7 +50,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (67,0);
+pos = (49,0);
 ref = acutecomb;
 }
 );
@@ -62,7 +62,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 341;

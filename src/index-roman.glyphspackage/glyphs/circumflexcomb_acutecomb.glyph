@@ -9,11 +9,11 @@ alignment = 1;
 ref = circumflexcomb;
 },
 {
-pos = (314,438);
+pos = (228,319);
 ref = acutecomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
@@ -23,11 +23,11 @@ alignment = 1;
 ref = circumflexcomb;
 },
 {
-pos = (439,462);
+pos = (319,336);
 ref = acutecomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
@@ -37,11 +37,11 @@ alignment = 1;
 ref = circumflexcomb;
 },
 {
-pos = (490,465);
+pos = (356,338);
 ref = acutecomb;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

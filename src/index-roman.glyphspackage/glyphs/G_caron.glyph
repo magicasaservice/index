@@ -8,11 +8,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (36,0);
+pos = (26,0);
 ref = caroncomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
@@ -21,11 +21,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (17,0);
+pos = (12,0);
 ref = caroncomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
@@ -34,11 +34,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (3,0);
+pos = (2,0);
 ref = caroncomb.case;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 unicode = 486;

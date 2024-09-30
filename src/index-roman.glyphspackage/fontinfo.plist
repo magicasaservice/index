@@ -1,5 +1,5 @@
 {
-.appVersion = "3316";
+.appVersion = "3322";
 .formatVersion = 3;
 axes = (
 {
@@ -377,33 +377,67 @@ fontMaster = (
 axesValues = (
 100
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1937;
+},
+{
+name = typoDescender;
+value = -507;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1937;
+},
+{
+name = winDescent;
+value = 507;
+},
+{
+name = hheaAscender;
+value = 1937;
+},
+{
+name = hheaDescender;
+value = -507;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 iconName = Light;
 id = master01;
 metricValues = (
 {
-pos = 2196;
+pos = 1937;
 },
 {
-over = 34;
-pos = 1966;
+over = 25;
+pos = 1430;
 },
 {
-over = 34;
-pos = 1453;
+over = 25;
+pos = 1057;
 },
 {
-over = -34;
+over = -25;
 },
 {
-pos = -620;
+pos = -507;
 },
 {
 }
 );
 name = Thin;
 stemValues = (
-59,
-54
+43,
+39
 );
 userData = {
 GSOffsetHorizontal = 1;
@@ -414,65 +448,133 @@ GSOffsetVertical = 1;
 axesValues = (
 400
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1937;
+},
+{
+name = typoDescender;
+value = -507;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1937;
+},
+{
+name = winDescent;
+value = 507;
+},
+{
+name = hheaAscender;
+value = 1937;
+},
+{
+name = hheaDescender;
+value = -507;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 id = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 metricValues = (
 {
-pos = 2196;
+pos = 1937;
 },
 {
-over = 34;
-pos = 1966;
+over = 25;
+pos = 1430;
 },
 {
-over = 34;
-pos = 1453;
+over = 25;
+pos = 1057;
 },
 {
-over = -34;
+over = -25;
 },
 {
-pos = -620;
+pos = -507;
 },
 {
 }
 );
 name = Regular;
 stemValues = (
-225,
-191
+164,
+139
 );
 },
 {
 axesValues = (
 700
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1937;
+},
+{
+name = typoDescender;
+value = -507;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1937;
+},
+{
+name = winDescent;
+value = 507;
+},
+{
+name = hheaAscender;
+value = 1937;
+},
+{
+name = hheaDescender;
+value = -507;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 iconName = Bold;
 id = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 metricValues = (
 {
-pos = 2196;
+pos = 1937;
 },
 {
-over = 34;
-pos = 1966;
+over = 25;
+pos = 1430;
 },
 {
-over = 34;
-pos = 1453;
+over = 25;
+pos = 1057;
 },
 {
-over = -34;
+over = -25;
 },
 {
-pos = -620;
+pos = -507;
 },
 {
 }
 );
 name = Bold;
 stemValues = (
-417,
-324
+303,
+236
 );
 }
 );
@@ -677,7 +779,7 @@ horizontal = 1;
 name = hStem0;
 }
 );
-unitsPerEm = 2816;
+unitsPerEm = 2048;
 userData = {
 UFO.lib = {
 "com.type-invaders.encoding" = (

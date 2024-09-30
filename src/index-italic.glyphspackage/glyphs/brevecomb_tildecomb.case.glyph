@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (1045,1966);
+pos = (760,1430);
 }
 );
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
@@ -16,17 +16,17 @@ ref = brevecomb.case;
 },
 {
 alignment = -1;
-pos = (88,485);
+pos = (64,353);
 ref = tildecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1039,1966);
+pos = (756,1430);
 }
 );
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
@@ -37,17 +37,17 @@ ref = brevecomb.case;
 },
 {
 alignment = -1;
-pos = (85,558);
+pos = (62,406);
 ref = tildecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (1047,1966);
+pos = (761,1430);
 }
 );
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
@@ -58,11 +58,11 @@ ref = brevecomb.case;
 },
 {
 alignment = -1;
-pos = (93,560);
+pos = (68,407);
 ref = tildecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

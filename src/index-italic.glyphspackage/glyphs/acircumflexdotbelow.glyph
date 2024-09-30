@@ -8,11 +8,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (-47,0);
+pos = (-34,0);
 ref = dotbelowcomb;
 },
 {
-pos = (31,0);
+pos = (23,0);
 ref = circumflexcomb;
 }
 );
@@ -24,7 +24,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
@@ -33,11 +33,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (-23,0);
+pos = (-16,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-77,0);
+pos = (-56,0);
 ref = circumflexcomb;
 }
 );
@@ -49,7 +49,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
@@ -58,11 +58,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (-75,0);
+pos = (-55,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-63,0);
+pos = (-46,0);
 ref = circumflexcomb;
 }
 );
@@ -74,7 +74,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 7853;

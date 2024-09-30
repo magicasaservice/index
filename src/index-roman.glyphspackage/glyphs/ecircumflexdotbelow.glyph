@@ -8,32 +8,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (17,0);
-ref = dotbelowcomb;
-},
-{
-pos = (5,0);
-ref = circumflexcomb;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 1690;
-},
-{
-layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
-shapes = (
-{
-ref = e;
-},
-{
-pos = (17,0);
+pos = (12,0);
 ref = dotbelowcomb;
 },
 {
@@ -49,20 +24,20 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
-layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
 ref = e;
 },
 {
-pos = (25,0);
+pos = (12,0);
 ref = dotbelowcomb;
 },
 {
-pos = (5,0);
+pos = (2,0);
 ref = circumflexcomb;
 }
 );
@@ -74,7 +49,32 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
+},
+{
+layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (18,0);
+ref = dotbelowcomb;
+},
+{
+pos = (3,0);
+ref = circumflexcomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 1229;
 }
 );
 unicode = 7879;

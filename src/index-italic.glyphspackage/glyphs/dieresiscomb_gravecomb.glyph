@@ -9,11 +9,11 @@ alignment = 1;
 ref = dieresiscomb;
 },
 {
-pos = (43,430);
+pos = (31,313);
 ref = gravecomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
@@ -23,11 +23,11 @@ alignment = 1;
 ref = dieresiscomb;
 },
 {
-pos = (76,451);
+pos = (55,328);
 ref = gravecomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
@@ -37,11 +37,11 @@ alignment = 1;
 ref = dieresiscomb;
 },
 {
-pos = (104,527);
+pos = (76,383);
 ref = gravecomb;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

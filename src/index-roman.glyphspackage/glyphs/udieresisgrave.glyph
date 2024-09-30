@@ -9,12 +9,12 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (-11,-76);
+pos = (-8,-55);
 ref = dieresiscomb;
 },
 {
 alignment = -1;
-pos = (-76,292);
+pos = (-55,212);
 ref = gravecomb;
 }
 );
@@ -26,7 +26,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
@@ -36,12 +36,12 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (-9,-50);
+pos = (-7,-36);
 ref = dieresiscomb;
 },
 {
 alignment = -1;
-pos = (-94,429);
+pos = (-68,312);
 ref = gravecomb;
 }
 );
@@ -53,7 +53,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
@@ -63,12 +63,12 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (-9,-50);
+pos = (-7,-36);
 ref = dieresiscomb;
 },
 {
 alignment = -1;
-pos = (-94,429);
+pos = (-68,312);
 ref = gravecomb;
 }
 );
@@ -80,7 +80,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 476;

@@ -5,46 +5,46 @@ layers = (
 layerId = master01;
 shapes = (
 {
-pos = (-45,0);
+pos = (-33,0);
 ref = circumflexcomb;
 },
 {
 alignment = -1;
-pos = (279,347);
+pos = (203,252);
 ref = hookcomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-pos = (-38,0);
+pos = (-28,0);
 ref = circumflexcomb;
 },
 {
 alignment = -1;
-pos = (426,329);
+pos = (310,239);
 ref = hookcomb;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-pos = (-3,0);
+pos = (-2,0);
 ref = circumflexcomb;
 },
 {
 alignment = -1;
-pos = (514,448);
+pos = (374,326);
 ref = hookcomb;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

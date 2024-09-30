@@ -5,61 +5,61 @@ layers = (
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-pos = (-478,0);
+pos = (-348,0);
 ref = period;
 },
 {
-pos = (479,0);
+pos = (348,0);
 ref = period;
 },
 {
-pos = (5,0);
+pos = (4,0);
 ref = period;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-pos = (-345,-1);
+pos = (-251,-1);
 ref = period;
 scale = (0.75,0.75);
 },
 {
-pos = (769,-1);
+pos = (559,-1);
 ref = period;
 scale = (0.75,0.75);
 },
 {
-pos = (212,-1);
+pos = (154,-1);
 ref = period;
 scale = (0.75,0.75);
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-pos = (-459,11);
+pos = (-334,8);
 ref = period;
 scale = (0.9,0.9);
 },
 {
-pos = (630,11);
+pos = (458,8);
 ref = period;
 scale = (0.9,0.9);
 },
 {
-pos = (84,11);
+pos = (61,8);
 ref = period;
 scale = (0.9,0.9);
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 unicode = 8230;

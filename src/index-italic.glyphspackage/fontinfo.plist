@@ -1,5 +1,5 @@
 {
-.appVersion = "3316";
+.appVersion = "3322";
 .formatVersion = 3;
 axes = (
 {
@@ -14,7 +14,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehook Abreve
 name = Uppercase;
 }
 );
-date = "2024-09-04 21:53:40 +0000";
+date = "2024-09-30 16:44:03 +0000";
 familyName = Index;
 featurePrefixes = (
 {
@@ -389,25 +389,59 @@ fontMaster = (
 axesValues = (
 100
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1937;
+},
+{
+name = typoDescender;
+value = -507;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1937;
+},
+{
+name = winDescent;
+value = 507;
+},
+{
+name = hheaAscender;
+value = 1937;
+},
+{
+name = hheaDescender;
+value = -507;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 iconName = Light;
 id = "B042A474-670A-4404-9662-903C467C1F9E";
 metricValues = (
 {
-pos = 2196;
+pos = 1937;
 },
 {
-over = 34;
-pos = 1966;
+over = 25;
+pos = 1430;
 },
 {
-over = 34;
-pos = 1453;
+over = 25;
+pos = 1057;
 },
 {
-over = -34;
+over = -25;
 },
 {
-pos = -620;
+pos = -507;
 },
 {
 pos = 9.5;
@@ -415,8 +449,8 @@ pos = 9.5;
 );
 name = Thin;
 stemValues = (
-59,
-54
+43,
+39
 );
 userData = {
 GSOffsetHorizontal = 1;
@@ -427,24 +461,58 @@ GSOffsetVertical = 1;
 axesValues = (
 400
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1937;
+},
+{
+name = typoDescender;
+value = -507;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1937;
+},
+{
+name = winDescent;
+value = 507;
+},
+{
+name = hheaAscender;
+value = 1937;
+},
+{
+name = hheaDescender;
+value = -507;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 id = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 metricValues = (
 {
-pos = 2196;
+pos = 1937;
 },
 {
-over = 34;
-pos = 1966;
+over = 25;
+pos = 1430;
 },
 {
-over = 34;
-pos = 1453;
+over = 25;
+pos = 1057;
 },
 {
-over = -34;
+over = -25;
 },
 {
-pos = -620;
+pos = -507;
 },
 {
 pos = 9.5;
@@ -452,8 +520,8 @@ pos = 9.5;
 );
 name = Regular;
 stemValues = (
-191,
-203
+139,
+148
 );
 userData = {
 GSOffsetHorizontal = 2;
@@ -464,25 +532,59 @@ GSOffsetVertical = 0;
 axesValues = (
 700
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1937;
+},
+{
+name = typoDescender;
+value = -507;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1937;
+},
+{
+name = winDescent;
+value = 507;
+},
+{
+name = hheaAscender;
+value = 1937;
+},
+{
+name = hheaDescender;
+value = -507;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 iconName = Bold;
 id = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 metricValues = (
 {
-pos = 2196;
+pos = 1937;
 },
 {
-over = 34;
-pos = 1966;
+over = 25;
+pos = 1430;
 },
 {
-over = 34;
-pos = 1453;
+over = 25;
+pos = 1057;
 },
 {
-over = -34;
+over = -25;
 },
 {
-pos = -620;
+pos = -507;
 },
 {
 pos = 9.5;
@@ -490,8 +592,8 @@ pos = 9.5;
 );
 name = Bold;
 stemValues = (
-344,
-318
+250,
+231
 );
 userData = {
 GSOffsetHorizontal = 1;
@@ -504,7 +606,7 @@ instances = (
 customParameters = (
 {
 name = fileName;
-value = "Index-Italic-Variable";
+value = "Index-Variable-Italic";
 }
 );
 name = Variable;
@@ -723,7 +825,7 @@ horizontal = 1;
 name = hStem0;
 }
 );
-unitsPerEm = 2816;
+unitsPerEm = 2048;
 userData = {
 UFO.lib = {
 "com.type-invaders.encoding" = (
@@ -1847,5 +1949,5 @@ com.typemytype.robofont.layerOrder = (
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 4;
 }

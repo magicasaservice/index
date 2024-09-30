@@ -5,11 +5,11 @@ layers = (
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-pos = (-315,0);
+pos = (-229,0);
 ref = prime;
 },
 {
-pos = (318,0);
+pos = (231,0);
 ref = prime;
 }
 );
@@ -21,17 +21,17 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-pos = (-251,0);
+pos = (-183,0);
 ref = prime;
 },
 {
-pos = (248,0);
+pos = (180,0);
 ref = prime;
 }
 );
@@ -43,17 +43,17 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-pos = (-214,0);
+pos = (-156,0);
 ref = prime;
 },
 {
-pos = (217,0);
+pos = (158,0);
 ref = prime;
 }
 );
@@ -65,7 +65,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 8243;

@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (845,1966);
+pos = (615,1430);
 }
 );
 layerId = master01;
@@ -14,17 +14,17 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (0,393);
+pos = (0,286);
 ref = acutecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (845,1966);
+pos = (615,1430);
 }
 );
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
@@ -33,17 +33,17 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (0,534);
+pos = (0,388);
 ref = acutecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (845,1966);
+pos = (615,1430);
 }
 );
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
@@ -52,11 +52,11 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (0,429);
+pos = (0,312);
 ref = acutecomb.case;
 }
 );
-width = 1690;
+width = 1229;
 }
 );
 }

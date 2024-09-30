@@ -5,20 +5,20 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (615,1057);
 }
 );
 layerId = master01;
 shapes = (
 {
 alignment = -1;
-pos = (-3,533);
+pos = (-2,388);
 ref = _part.tilde;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1687,3249);
+pos = (1227,2363);
 ref = _part.tilde;
 }
 );
@@ -30,26 +30,26 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (847,1453);
+pos = (616,1057);
 }
 );
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
 alignment = -1;
-pos = (-1,551);
+pos = (-1,401);
 ref = _part.tilde;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1689,3157);
+pos = (1228,2296);
 ref = _part.tilde;
 }
 );
@@ -61,26 +61,26 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (845,1453);
+pos = (615,1057);
 }
 );
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
 alignment = -1;
-pos = (0,468);
+pos = (0,340);
 ref = _part.tilde;
 },
 {
 alignment = -1;
 angle = 180;
-pos = (1690,3276);
+pos = (1229,2383);
 ref = _part.tilde;
 }
 );
@@ -92,7 +92,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1690;
+width = 1229;
 }
 );
 unicode = 771;

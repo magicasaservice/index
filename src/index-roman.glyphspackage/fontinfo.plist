@@ -14,7 +14,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehook Abreve
 name = Uppercase;
 }
 );
-date = "2024-09-04 21:52:16 +0000";
+date = "2024-09-30 16:44:44 +0000";
 familyName = Index;
 featurePrefixes = (
 {
@@ -1903,5 +1903,5 @@ com.typemytype.robofont.layerOrder = (
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }

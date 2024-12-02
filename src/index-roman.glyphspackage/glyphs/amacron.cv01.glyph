@@ -1,15 +1,15 @@
 {
-glyphname = abreveacute.ss02;
+glyphname = amacron.cv01;
 layers = (
 {
 layerId = master01;
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (-27,0);
-ref = brevecomb_acutecomb;
+ref = macroncomb;
 }
 );
 userData = {
@@ -26,11 +26,11 @@ width = 1229;
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (-5,0);
-ref = brevecomb_acutecomb;
+ref = macroncomb;
 }
 );
 userData = {
@@ -47,11 +47,11 @@ width = 1229;
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (-19,0);
-ref = brevecomb_acutecomb;
+ref = macroncomb;
 }
 );
 userData = {

@@ -1,16 +1,16 @@
 {
-glyphname = gstroke.ss02;
+glyphname = gmacron.cv02;
 layers = (
 {
 layerId = master01;
 shapes = (
 {
-ref = g.ss02;
+ref = g.alt02;
 },
 {
-pos = (420,-68);
-ref = strokeshortcomb;
-scale = (0.8439,1);
+alignment = 1;
+pos = (10,0);
+ref = macroncomb;
 }
 );
 width = 1229;
@@ -19,11 +19,11 @@ width = 1229;
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-ref = g.ss02;
+ref = g.alt02;
 },
 {
-pos = (298,-87);
-ref = strokeshortcomb;
+pos = (29,0);
+ref = macroncomb;
 }
 );
 width = 1229;
@@ -32,12 +32,11 @@ width = 1229;
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-ref = g.ss02;
+ref = g.alt02;
 },
 {
-pos = (340,-32);
-ref = strokeshortcomb;
-scale = (0.9255,1);
+pos = (28,0);
+ref = macroncomb;
 }
 );
 width = 1229;

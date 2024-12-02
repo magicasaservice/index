@@ -1,16 +1,16 @@
 {
-glyphname = gstroke;
+glyphname = gstroke.cv02;
 layers = (
 {
 layerId = master01;
 shapes = (
 {
-ref = g;
+ref = g.cv02;
 },
 {
-pos = (420,-68);
+pos = (531,103);
 ref = strokeshortcomb;
-scale = (0.8439,1);
+scale = (0.726,1);
 }
 );
 width = 1229;
@@ -19,11 +19,12 @@ width = 1229;
 layerId = "661A777E-9960-44AA-8623-3AD7C626B4F3";
 shapes = (
 {
-ref = g;
+ref = g.cv02;
 },
 {
-pos = (298,-87);
+pos = (299,175);
 ref = strokeshortcomb;
+scale = (1,0.8519);
 }
 );
 width = 1229;
@@ -32,16 +33,15 @@ width = 1229;
 layerId = "D7CFBB37-D300-46E8-A355-ECFF19545BAA";
 shapes = (
 {
-ref = g;
+ref = g.cv02;
 },
 {
-pos = (340,-32);
+pos = (389,246);
 ref = strokeshortcomb;
-scale = (0.9255,1);
+scale = (0.8432,0.7725);
 }
 );
 width = 1229;
 }
 );
-unicode = 485;
 }

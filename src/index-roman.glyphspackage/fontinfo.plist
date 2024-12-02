@@ -1,5 +1,5 @@
 {
-.appVersion = "3322";
+.appVersion = "3327";
 .formatVersion = 3;
 axes = (
 {
@@ -49,9 +49,10 @@ feature frac;
 feature ordn;
 feature case;
 feature ss01;
-feature ss02;
-feature ss03;
-feature ss04;
+feature cv01;
+feature cv02;
+feature zero;
+feature cv03;
 ";
 tag = aalt;
 },
@@ -268,19 +269,21 @@ sub macroncomb by macroncomb.case;
 tag = case;
 },
 {
+automatic = 1;
 code = "lookupflag IgnoreMarks;
-";
-tag = dlig;
-},
-{
-code = "lookupflag IgnoreMarks;
-sub f i by fi;
-sub f l by fl;
 sub i l l by i_l_l;
 sub i l by i_l;
 sub l i by l_i;
 sub l l by l_l;
 sub t t by t_t;
+";
+tag = dlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
 ";
 tag = liga;
 },
@@ -306,70 +309,66 @@ sub i_l_l by i l l;
 sub i_l by i l;
 sub l_i by l i;
 sub l_l by l l;
-sub t_t by t t;";
+sub t_t by t t;
+";
 labels = (
 {
 language = dflt;
-value = "";
+value = "Real Monospace";
 }
 );
 tag = ss01;
 },
 {
 automatic = 1;
-code = "sub a by a.ss02;
-sub aacute by aacute.ss02;
-sub abreve by abreve.ss02;
-sub abreveacute by abreveacute.ss02;
-sub abrevedotbelow by abrevedotbelow.ss02;
-sub abrevegrave by abrevegrave.ss02;
-sub abrevetilde by abrevetilde.ss02;
-sub acaron by acaron.ss02;
-sub acircumflex by acircumflex.ss02;
-sub acircumflexacute by acircumflexacute.ss02;
-sub acircumflexdotbelow by acircumflexdotbelow.ss02;
-sub acircumflexgrave by acircumflexgrave.ss02;
-sub acircumflextilde by acircumflextilde.ss02;
-sub adieresis by adieresis.ss02;
-sub adotbelow by adotbelow.ss02;
-sub agrave by agrave.ss02;
-sub amacron by amacron.ss02;
-sub aogonek by aogonek.ss02;
-sub aring by aring.ss02;
-sub aringacute by aringacute.ss02;
-sub atilde by atilde.ss02;
-sub g by g.ss02;
-sub gbreve by gbreve.ss02;
-sub gcircumflex by gcircumflex.ss02;
-sub gcommaaccent by gcommaaccent.ss02;
-sub gdotaccent by gdotaccent.ss02;
-sub gstroke by gstroke.ss02;
+code = "sub zero by zero.zero;
 ";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss02;
+tag = zero;
 },
 {
 automatic = 1;
-code = "sub germandbls by germandbls.ss03;
+code = "sub a by a.cv01;
+sub aacute by aacute.cv01;
+sub abreve by abreve.cv01;
+sub abreveacute by abreveacute.cv01;
+sub abrevedotbelow by abrevedotbelow.cv01;
+sub abrevegrave by abrevegrave.cv01;
+sub abrevetilde by abrevetilde.cv01;
+sub acaron by acaron.cv01;
+sub acircumflex by acircumflex.cv01;
+sub acircumflexacute by acircumflexacute.cv01;
+sub acircumflexdotbelow by acircumflexdotbelow.cv01;
+sub acircumflexgrave by acircumflexgrave.cv01;
+sub acircumflextilde by acircumflextilde.cv01;
+sub adieresis by adieresis.cv01;
+sub adotbelow by adotbelow.cv01;
+sub agrave by agrave.cv01;
+sub amacron by amacron.cv01;
+sub aogonek by aogonek.cv01;
+sub aring by aring.cv01;
+sub aringacute by aringacute.cv01;
+sub atilde by atilde.cv01;
 ";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss03;
+tag = cv01;
 },
 {
 automatic = 1;
-code = "sub zero by zero.ss04;
+code = "sub g by g.cv02;
+sub gbreve by gbreve.cv02;
+sub gcaron by gcaron.cv02;
+sub gcircumflex by gcircumflex.cv02;
+sub gcommaaccent by gcommaaccent.cv02;
+sub gdotaccent by gdotaccent.cv02;
+sub gmacron by gmacron.cv02;
+sub gstroke by gstroke.cv02;
 ";
-tag = ss04;
+tag = cv02;
+},
+{
+automatic = 1;
+code = "sub germandbls by germandbls.cv03;
+";
+tag = cv03;
 }
 );
 fontMaster = (

@@ -269,8 +269,11 @@ sub macroncomb by macroncomb.case;
 tag = case;
 },
 {
-automatic = 1;
 code = "lookupflag IgnoreMarks;
+
+sub f i by fi;
+sub f l by fl;
+
 sub i l l by i_l_l;
 sub i l by i_l;
 sub l i by l_i;
@@ -278,14 +281,6 @@ sub l l by l_l;
 sub t t by t_t;
 ";
 tag = dlig;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f i by fi;
-sub f l by fl;
-";
-tag = liga;
 },
 {
 code = "sub M by M.ss01;

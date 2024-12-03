@@ -1,11 +1,11 @@
 {
-glyphname = aogonek.ss02;
+glyphname = aogonek.cv01;
 layers = (
 {
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (179,0);
@@ -18,7 +18,7 @@ width = 1229;
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (188,0);
@@ -31,7 +31,7 @@ width = 1229;
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (169,0);

@@ -1,15 +1,15 @@
 {
-glyphname = acircumflexgrave.ss02;
+glyphname = acircumflex.cv01;
 layers = (
 {
 layerId = "586BE664-8D6A-4867-BE1B-390608DE01EA";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (-35,0);
-ref = circumflexcomb_gravecomb;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -26,11 +26,11 @@ width = 1229;
 layerId = "9AAD14F8-FE06-4230-ACE0-3E9D6F8A5A9E";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (-17,0);
-ref = circumflexcomb_gravecomb;
+ref = circumflexcomb;
 }
 );
 userData = {
@@ -47,11 +47,11 @@ width = 1229;
 layerId = "B042A474-670A-4404-9662-903C467C1F9E";
 shapes = (
 {
-ref = a.ss02;
+ref = a.cv01;
 },
 {
 pos = (-24,0);
-ref = circumflexcomb_gravecomb;
+ref = circumflexcomb;
 }
 );
 userData = {

@@ -81,16 +81,6 @@ nodes = (
 name = hr03;
 })
 );
-},
-{
-closed = 1;
-nodes = (
-);
-},
-{
-closed = 1;
-nodes = (
-);
 }
 );
 width = 1229;
@@ -174,11 +164,6 @@ nodes = (
 name = hr03;
 })
 );
-},
-{
-closed = 1;
-nodes = (
-);
 }
 );
 width = 1229;
@@ -261,11 +246,6 @@ nodes = (
 (451,15,cs,{
 name = hr03;
 })
-);
-},
-{
-closed = 1;
-nodes = (
 );
 }
 );
@@ -914,16 +894,6 @@ nodes = (
 (521,211,cs,{
 name = hr03;
 })
-);
-},
-{
-closed = 1;
-nodes = (
-);
-},
-{
-closed = 1;
-nodes = (
 );
 }
 );
